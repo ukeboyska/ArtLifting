@@ -1,0 +1,199 @@
+.text-center .block__kicker--flourished:after {
+  transform: none !important;
+  left: 0; 
+  right: 0;
+  margin: auto;
+}
+
+.hero__kicker:not(.block__kicker--flourished):not(.kicker__line) {
+  margin-bottom: 20px;
+}
+
+
+.align--middle-center .block__kicker--flourished:after {
+  left: 0;
+  right: 0;
+}
+.noline:after {display:none !important;}
+.kicker-flourished--nosize {
+  font-family: var(--TYPE-STACK-KICKER);
+  font-style: var(--TYPE-STYLE-KICKER);
+  font-weight: var(--TYPE-WEIGHT-KICKER);
+  text-transform: var(--FONT-KICKER-TRANSFORM);
+  letter-spacing: var(--FONT-KICKER-LETTER-SPACING);
+  color: var(--text);
+  padding-bottom: var(--inner);
+  position: relative;
+  text-align: center;
+}
+.kicker-flourished--nosize:after {
+  content: "";
+  margin: auto;
+  width: 30px;
+  height: 3px;
+  position: absolute;
+  bottom: 0;
+  background: var(--text);
+  opacity: .2;
+  left: 0;
+  right: 0;
+}
+
+
+.listing .grid__item:has(.artist) {
+  margin-bottom: 0 !important;
+}
+  @media screen and (max-width: 1000px) {
+    .float-grid:has(.artist) .medium-up--one-quarter {
+      width: 33.3%;
+    }
+  }
+  @media screen and (max-width: 700px) {
+    .float-grid:has(.artist) .medium-up--one-quarter {
+      width: 50%;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .float-grid:has(.artist) .medium-up--one-quarter {
+      width: 100%;
+    }
+  }
+
+.float-grid:has(.artist) {
+  display: flex;
+  flex-wrap: wrap;
+}
+.float-grid:has(.artist) .grid__item {
+  float: none !important;
+}
+
+.artist-detail {
+  padding: 10px 0; 
+  clear: both;
+}
+
+.artist-face-img {
+  height: 270px;
+  background-size: cover;
+  background-position: center center; }
+
+.artist-detail .row, #about .row, #tabs-1 .row {
+  margin-bottom: 0; }
+
+.artist-detail .row h1 {
+  margin-bottom: 20px !important; }
+.artist .artist-img {
+  aspect-ratio: 1/1;
+  max-height: 270px;
+  margin: 0 0 11px;
+  overflow: hidden;
+  width: 100%; }
+.artist:hover .artist-img img {
+  opacity: 0.6; }
+
+.artist .artist-img:hover .artist-art-img {
+  opacity: 1; }
+
+.artist .artist-art-img {
+  height: 270px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out; }
+
+.artist-list .artist .artist-img a {
+  display: block;
+  opacity: 1; }
+
+.artist-list .artist .artist-img a:hover {
+  /* opacity:0.6; */ }
+
+
+    
+    .artist-img a {position: relative;}
+.artist-img a,
+.artist-img a div {
+  max-height: 100%;
+}
+    
+.artist {
+  margin-bottom: 20px;
+  position: relative; }
+.artist .pin_it {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: 999;
+    opacity: 0;
+    -webkit-transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -o-transition: opacity .5s ease-in-out;
+    -ms-transition: opacity .5s ease-in-out;
+    transition: opacity .5s ease-in-out; }
+.artist:hover .pin_it {
+    opacity: 1; }
+
+.artist-detail p {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: "Montserrat-light", "Lato-light", sans-serif;
+  line-height: 22px;
+  height: 43px;
+  overflow: hidden; }
+.artist-detail h3 {
+  font-weight: normal;
+  font-size: 14px;
+  text-transform: uppercase;
+  /*font-family: Georgia;*/
+  color: #2b2b2b;
+  margin-bottom: 20px;
+  letter-spacing: 1px; }
+
+.artist-detail h3 a {
+  color: #2b2b2b; }
+
+
+
+.search__results__products .product__inline__price {
+  display: none;
+}
+
+.valign--top .brick__block__text {
+  align-items: flex-start;
+}
+.valign--bottom .brick__block__text {
+  align-items: flex-end;
+}
+body .bio-details,
+body .bio-quote {
+  font-size: 12pt;
+}
+body .bio-quote {
+  line-height: 20pt;
+}
+body .bio-details {
+  margin-top: 20px;
+}
+body .bios .image__hero__frame {
+  margin-bottom: 30px;
+}
+body:has(.modal-window:target) {
+  overflow: hidden;
+}
+body .bio-title a {
+  text-decoration:none;
+}
+body .bio-title a:hover {
+  text-decoration:underline;
+}
+.company {
+  font-weight: var(--FONT-WEIGHT-ACCENT-BOLD);
+}

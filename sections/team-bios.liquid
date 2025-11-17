@@ -1,0 +1,224 @@
+{% for block in section.blocks %}  
+
+  {% if block.settings.bios_name %}
+  
+	<article class="bio" style="">
+      
+      {% if block.settings.bios_image %}
+      <div class="grid">
+	    <div class="grid__cell unit-4-12 tiny__100">
+          <img class="bio-image" src="{{ block.settings.bios_image | img_url: '600x' }}" alt="{{ block.settings.bios_name }}" title="{{ block.settings.bios_name }}" />
+        </div>
+	    <div class="grid__cell unit-8-12 tiny__100">
+      {% endif%}
+          
+          {% if block.settings.bios_name != empty %}
+              <h3 class="bio-name">{{ block.settings.bios_name }}</h3>
+          {% endif %}	
+
+          {% if block.settings.bios_title or block.settings.bios_company != empty %}
+          <p class="bio-title">
+            {% endif %}
+    
+          {% if block.settings.bios_title != empty %}
+              <strong>{{ block.settings.bios_title }}</strong>
+          {% endif %}	
+          
+          {% if block.settings.bios_company != empty %}
+             {% if block.settings.bios_title != empty %} - {% endif %}
+            {% if block.settings.bios_company_link != empty %}<a href="{{ block.settings.bios_company_link }}" target="_blank">{% endif %}
+            <span style="display:block;">{{ block.settings.bios_company }}</span>
+            {% if block.settings.bios_company_link != empty %}</a>{% endif %}
+          {% endif %}
+
+           {% if block.settings.bios_title or block.settings.bios_company != empty %}
+           </p>
+            {% endif %}
+            
+          <strong class="bio-contact">
+          {% if block.settings.bios_email != empty %}
+              <a class="bio-email" href="mailto:{{ block.settings.bios_email }}">{{ block.settings.bios_email }}</a>
+          {% endif %}	
+          {% if block.settings.bios_linkedin != empty %}
+             {% if block.settings.bios_email != empty %}| {% endif %}<a href="{{ block.settings.bios_linkedin }}" target="_blank" class="bio-linkedin">Linkedin</a>
+          {% endif %}
+          </strong>
+          
+          {% if block.settings.bios_location != empty %}
+              <p class="bio-location"><strong><small>{{ block.settings.bios_location }}</small></strong></p>
+          {% endif %}	
+
+          {% if block.settings.bios_details != empty %}
+              <div class="bio-details">{{ block.settings.bios_details }}</div>
+          {% endif %}	
+
+          {% if block.settings.bios_artwork != empty %}
+            <div class="bio-artwork">
+              Featured Artwork: <a href="/products/{{ block.settings.bios_artwork.handle }}" target="_blank">{{ block.settings.bios_artwork.title }}</a>&nbsp; by {{ block.settings.bios_artwork.vendor }}
+            </div>
+          {% endif %}
+          {% if block.settings.bios_quote != empty %}
+            <blockquote class="bio-quote"><em>{{ block.settings.bios_quote }}</em></blockquote>
+          {% endif %}
+
+      {% if block.settings.bios_image %}
+        </div>
+      </div> 
+      {% endif%}
+
+	</article>
+		
+
+  {% endif %}
+
+{% endfor %}
+
+{% schema %}
+  {
+    "name": "Bios",
+    "settings": [
+	],
+	"blocks": [
+		{
+        "type": "select",
+        "name": "Bio",
+        "settings": [
+          {
+            "type": "text",
+            "id": "bios_name",
+            "label": "Name"
+          },
+          {
+            "type": "text",
+            "id": "bios_pronouns",
+            "label": "Pronouns"
+          },
+          {
+            "type": "text",
+            "id": "bios_title",
+            "label": "Title"
+          },
+          {
+            "type": "text",
+            "id": "bios_location",
+            "label": "Location"
+          },
+          {
+            "type": "text",
+            "id": "bios_position",
+            "label": "Position"
+          },
+          {
+            "type": "text",
+            "id": "bios_company",
+            "label": "Company"
+          },
+          {
+            "type": "text",
+            "id": "bios_company_link",
+            "label": "Company Link"
+          },
+          {
+            "type": "richtext",
+            "id": "bios_details",
+            "label": "Details"
+          },
+          {
+            "type": "product",
+            "id": "bios_artwork",
+            "label": "Featured Artwork"
+          },
+          {
+            "type": "richtext",
+            "id": "bios_quote",
+            "label": "Quote"
+          },
+          {
+            "type": "image_picker",
+            "id": "bios_image",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "bios_email",
+            "label": "Email"
+          },
+          {
+            "type": "text",
+            "id": "bios_linkedin",
+            "label": "Linkedin"
+          }
+		]
+		}		
+	]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
+
+<style>
+  .bio {
+  	margin: 60px 0;
+  }
+  .bio .bio-name {
+    margin: 0 0 5px;
+    color: black;
+  }
+  .bio .bio-image {
+  	max-width: 90%;
+    display: inline-block;
+    border-radius: 100%;
+  }
+  .bio .bio-linkedin {
+  	font-family: "Lato-regular",sans-serif;
+    font-weight: bold;
+    color: black;
+  }
+  .bio .bio-title {
+    display: block;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  .bio .bio-artwork {
+  	font-family: "Lato-regular",sans-serif;
+    margin-top: 15px;
+  }
+  .bio .bio-artwork a {
+  	font-family: "Lato-regular",sans-serif;
+    font-style: italic;
+  }
+  .bio p{
+  	margin-bottom: 10px;
+    color: black;
+    font-size: 14px;
+    line-height: 1.4em;
+  }
+  .bio .bio-contact {
+    gap: 5px;
+    display: flex;
+  }
+  .bio .bio-quote {
+    margin: 15px 0;
+  }
+  .bio .bio-quote p {
+    font-size: 16px;
+  }
+  .bio .bio-quote p:before,
+  .bio .bio-quote p:after {
+    content: '"';
+  }
+  .bio .bio-details {
+    margin-top: 20px;
+  }
+  .bio .bio-email {
+    color: #0064ff;
+    text-decoration: underline;
+    display: block;
+  	font-family: "Lato-regular",sans-serif;
+  }
+</style>

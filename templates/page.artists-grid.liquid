@@ -1,0 +1,92 @@
+
+
+
+
+<section class="page__template section-padding {{ section.settings.text_color }} {{ section.settings.bg }}"
+  data-section-id="{{ section.id }}"
+  data-section-type="page"
+  style="--PT: {{ section.settings.padding_top }}px; --PB: {{ section.settings.padding_bottom }}px;">
+  <div class="wrapper section-padding">    
+        
+    <!--div class="grid">
+      <div class="grid__cell unit-2-12"></div>
+      <div class="grid__cell unit-8-12 tablet__100 aligncenter" data-molecule="header__text">
+        <h1>New Artists</h1>
+        <p class="subhead">ArtLifting supports artists impacted by disabilities and housing insecurity. Browse stunning artwork and read their inspiring stories. To view artists by location, click <a href="http://www.artlifting.com/pages/support-local-artists">here</a>.</p>
+      </div>  
+  </div--> 
+    <div class="products-part">
+        	
+            <br><br>
+              <div data-molecule="header__text">
+                <h1>{{page.title}}</h1>
+                {{ page.content }}
+
+              </div> 
+<br><br>
+            
+            <div class="products-part artist-page">
+              <!-- Artist-list start -->
+              <div class="float-grid artist-list">
+                {% for link in linklists.all-vendors.links %}
+                     {% assign collection_item = link.object %}
+                     {% if collection_item.image %}
+                      <div class="grid__item medium-up--one-quarter">
+                        <div class="artist">
+                          <div class="artist-img"> 
+                            <a href="{{collection_item.url}}">
+                              <div style="background-image: url('{{ collection_item | img_url: 'large' }}');" class="artist-face-img"></div>
+                              {% if collection_item.metafields.artist.featured_art %}
+                              <div style="background-image: url('{{ collection_item.metafields.artist.featured_art }}');" class="artist-art-img"></div>
+                              {% else %}
+                              <div style="background-image: url('{{ collection_item.products.first.featured_image | product_img_url: 'large'}}');" class="artist-art-img"></div>
+                              {% endif %}
+                            </a>
+                          </div>
+
+
+
+                          <div class="artist-detail">
+                            <h3><a href="{{collection_item.url}}">{{collection_item.title}}</a></h3>
+                          </div>
+                            <div class="pin_it">
+                              <a href="//pinterest.com/pin/create/button/?url={{ shop.url }}/{{ collection_item.url }}&amp;media=http:{{ collection_item | img_url: 'large' }}&amp;description={{ collection_item.title}}" data-pin-do="buttonPin" data-pin-color="white" data-pin-height="28" data-pin-config="none">
+                                <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_white_28.png" />
+                              </a>
+                            </div>
+                        </div>
+                      </div>
+                    {% endif %}
+	                
+                {% endfor %}
+              </div>
+              <script async src="//assets.pinterest.com/js/pinit.js"></script>
+              <!-- Artist-list End -->
+              <div class="clear"></div>
+            </div>
+
+
+      
+    </div>
+
+
+    
+  </div>
+  
+  </section>
+
+  <style>
+
+
+.btn-black {
+  color: #404040;
+  border-color: #404040;
+  padding: 14px 20px; }
+
+.artist-btn {
+  display: inline-block;
+  width: 100%;
+  text-align: center; }
+
+    
+  </style>

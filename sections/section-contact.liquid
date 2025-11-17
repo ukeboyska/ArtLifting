@@ -1,0 +1,747 @@
+<!-- /sections/section-contact.liquid -->
+<section class="section-contact {{ section.settings.text_color }} {{ section.settings.height }} {{ section.settings.bg }}"
+  data-section-id="{{ section.id }}"
+  data-section-type="contact"
+  style="--PT: {{ section.settings.padding_top }}px; --PB: {{ section.settings.padding_bottom }}px;">
+  <div class="{{ section.settings.width }} section-padding">
+    <div class="text__standard {{ section.settings.align_text }}">
+      {% if section.settings.title != blank %}
+        <p class="standard__kicker kicker__line">
+          {{ section.settings.title }}
+        </p>
+      {% endif %}
+      <div>
+        {% form 'contact', id: 'contact-us-page' %}
+
+          {% comment %}
+            Successful message
+          {% endcomment %}
+          {% if form.posted_successfully? %}
+            <p class="note form-success">
+              {{ 'contact.form.post_success' | t }}
+            </p>
+          {% endif %}
+
+          {{ form.errors | default_errors }}
+
+          {% for block in section.blocks %}
+
+            {% case block.type %}
+
+              {% when 'email' %}
+                <div class="float__wrapper" {{ block.shopify_attributes }}>
+                  <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}{% if block.settings.required %}*{% endif %}</label>
+                  <input {% if block.settings.required %}required{% endif %} type="email" id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[email]" placeholder="{{ block.settings.title | escape }}{% if block.settings.required %}*{% endif %}" autocorrect="off" autocapitalize="off" />
+                </div>
+
+              {% when 'body' %}
+                <div class="float__wrapper" {{ block.shopify_attributes }}>
+                  <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}</label>
+                  <textarea {% if block.settings.required %}required{% endif %} rows="10" id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[body]" placeholder="{{ block.settings.title | escape }}{% if block.settings.required %}*{% endif %}"></textarea>
+                </div>
+
+              {% when 'text' %}
+                <div class="float__wrapper" {{ block.shopify_attributes }}>
+                  <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}{% if block.settings.required %}*{% endif %}</label>
+                  <input {% if block.settings.required %}required{% endif %} type="text" id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[{{ block.settings.title | handleize | default: 'text' }}]" placeholder="{{ block.settings.title | escape }}{% if block.settings.required %}*{% endif %}" autocapitalize="words" value="" />
+                </div>
+
+              {% when 'textarea' %}
+                <div class="float__wrapper" {{ block.shopify_attributes }}>
+                  <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}{% if block.settings.required %}*{% endif %}</label>
+                  <textarea {% if block.settings.required %}required{% endif %} rows="10" id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[{{ block.settings.title | handleize | default: 'textarea' }}]" placeholder="{{ block.settings.title | escape }}{% if block.settings.required %}*{% endif %}"></textarea>
+                </div>
+
+              {% when 'telephone' %}
+                <div class="float__wrapper" {{ block.shopify_attributes }}>
+                  <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}{% if block.settings.required %}*{% endif %}</label>
+                  <input {% if block.settings.required %}required{% endif %} type="tel" id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[telephone]" placeholder="{{ block.settings.title | escape }}{% if block.settings.required %}*{% endif %}" value="" />
+                </div>
+
+              {% when 'form_heading' %}
+                <div class="contact__block" {{ block.shopify_attributes }}>
+                  <p class="strong">{{ block.settings.title }}</p>
+                </div>
+
+              {% when 'spacer' %}
+                {%- assign hr_class = 'hr--small hr--clear' -%}
+                {%- if block.settings.line -%}
+                  {%- assign hr_class = 'hr--small' -%}
+                {%- endif -%}
+                <div class="contact__block">
+                  <hr class="{{ hr_class }}" {{ block.shopify_attributes }}>
+                </div>
+
+              {% when 'checkbox' %}
+                <div class="contact__block" {{ block.shopify_attributes }}>
+                  <div class="contact__check">
+                    <input {% if block.settings.required %}required{% endif %} type="checkbox" id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[{{ block.settings.title | handleize | default: 'checkbox' }}]" value="{{ block.settings.title | escape }}">
+                    <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}</label>
+                  </div>
+                </div>
+
+              {% when 'radio' %}
+                <fieldset class="contact__block" {{ block.shopify_attributes }}>
+                  {% if block.settings.title != blank %}
+                    <legend>{{ block.settings.title }}{% if block.settings.required %}*{% endif %}</legend>
+                  {% endif %}
+                  {% if block.settings.label_one != blank %}
+                    <div class="contact__radio">
+                      <input {% if block.settings.required %}required{% endif %} type="radio" id="Form-{{ section.id }}-{{ forloop.index0 }}-1" name="contact[{{ block.settings.title | handleize | default: 'radio' }}]" value="{{ block.settings.label_one | escape }}">
+                      <label for="Form-{{ section.id }}-{{ forloop.index0 }}-1">{{ block.settings.label_one }}</label>
+                    </div>
+                  {% endif %}
+                  {% if block.settings.label_two != blank %}
+                    <div class="contact__radio">
+                      <input type="radio" id="Form-{{ section.id }}-{{ forloop.index0 }}-2" name="contact[{{ block.settings.title | handleize | default: 'radio' }}]" value="{{ block.settings.label_two | escape }}">
+                      <label for="Form-{{ section.id }}-{{ forloop.index0 }}-2">{{ block.settings.label_two }}</label>
+                    </div>
+                  {% endif %}
+                  {% if block.settings.label_three != blank %}
+                    <div class="contact__radio">
+                      <input type="radio" id="Form-{{ section.id }}-{{ forloop.index0 }}-3" name="contact[{{ block.settings.title | handleize | default: 'radio' }}]" value="{{ block.settings.label_three | escape }}">
+                      <label for="Form-{{ section.id }}-{{ forloop.index0 }}-3">{{ block.settings.label_three }}</label>
+                    </div>
+                  {% endif %}
+                  {% if block.settings.label_four != blank %}
+                    <div class="contact__radio">
+                      <input type="radio" id="Form-{{ section.id }}-{{ forloop.index0 }}-4" name="contact[{{ block.settings.title | handleize | default: 'radio' }}]" value="{{ block.settings.label_four | escape }}">
+                      <label for="Form-{{ section.id }}-{{ forloop.index0 }}-4">{{ block.settings.label_four }}</label>
+                    </div>
+                  {% endif %}
+                  {% if block.settings.label_five != blank %}
+                    <div class="contact__radio">
+                      <input type="radio" id="Form-{{ section.id }}-{{ forloop.index0 }}-5" name="contact[{{ block.settings.title | handleize | default: 'radio' }}]" value="{{ block.settings.label_five | escape }}">
+                      <label for="Form-{{ section.id }}-{{ forloop.index0 }}-5">{{ block.settings.label_five }}</label>
+                    </div>
+                  {% endif %}
+                  {% if block.settings.label_six != blank %}
+                    <div class="contact__radio">
+                      <input type="radio" id="Form-{{ section.id }}-{{ forloop.index0 }}-6" name="contact[{{ block.settings.title | handleize | default: 'radio' }}]" value="{{ block.settings.label_six | escape }}">
+                      <label for="Form-{{ section.id }}-{{ forloop.index0 }}-6">{{ block.settings.label_six }}</label>
+                    </div>
+                  {% endif %}
+                </fieldset>
+
+              {% when 'select' %}
+                <div class="contact__block" {{ block.shopify_attributes }}>
+                  {% if block.settings.title != blank %}
+                    <label for="Form-{{ section.id }}-{{ forloop.index0 }}">{{ block.settings.title }}{% if block.settings.required %}*{% endif %}</label>
+                  {% endif %}
+                  <select id="Form-{{ section.id }}-{{ forloop.index0 }}" name="contact[{{ block.settings.title | handleize | default: 'select' }}]">
+                    {% if block.settings.label_one != blank %}
+                      <option value="{{ block.settings.label_one | escape }}">{{ block.settings.label_one }}</option>
+                    {% endif %}
+                    {% if block.settings.label_two != blank %}
+                      <option value="{{ block.settings.label_two | escape }}">{{ block.settings.label_two }}</option>
+                    {% endif %}
+                    {% if block.settings.label_three != blank %}
+                      <option value="{{ block.settings.label_three | escape }}">{{ block.settings.label_three }}</option>
+                    {% endif %}
+                    {% if block.settings.label_four != blank %}
+                      <option value="{{ block.settings.label_four | escape }}">{{ block.settings.label_four }}</option>
+                    {% endif %}
+                    {% if block.settings.label_five != blank %}
+                      <option value="{{ block.settings.label_five | escape }}">{{ block.settings.label_five }}</option>
+                    {% endif %}
+                    {% if block.settings.label_six != blank %}
+                      <option value="{{ block.settings.label_six | escape }}">{{ block.settings.label_six }}</option>
+                    {% endif %}
+
+                  </select>
+                </div>
+            {% endcase %}
+          {% endfor %}
+
+          {% assign types = '' %}
+          {% for block in section.blocks %}
+            {% assign types = types | append: block.type %}
+          {% endfor %}
+
+          {% unless types contains "email" %}
+            <div class="float__wrapper">
+              <label for="ContactFormEmail">{{ 'contact.form.email' | t }}</label>
+              <input {% if block.settings.required %}required{% endif %} type="email" id="ContactFormEmail" name="contact[email]" placeholder="{{ 'contact.form.email' | t | escape }}{% if block.settings.required %}*{% endif %}" autocorrect="off" autocapitalize="off" value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}">
+            </div>
+          {% endunless %}
+
+          {% unless types contains "body" %}
+            <div class="float__wrapper contact__block">
+              <label for="ContactFormMessage">{{ 'contact.form.message' | t }}</label>
+              <textarea {% if block.settings.required %}required{% endif %} rows="10" id="ContactFormMessage" name="contact[body]" placeholder="{{ 'contact.form.message' | t | escape }}{% if block.settings.required %}*{% endif %}">{% if form.body %}{{ form.body }}{% endif %}</textarea>
+            </div>
+          {% endunless %}
+
+          <button type="submit" class="{{ section.settings.button_color }} {{ section.settings.button_size }} {{ section.settings.button_style }}">
+            {{ 'contact.form.send' | t }}
+          </button>
+
+          <div class="form__legal">
+            {{ 'shopify.online_store.spam_detection.disclaimer_html' | t }}
+          </div>
+        {% endform %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  // Input change
+function inputChange() {
+  const input = this;
+  validateInput(input);
+}
+// Validate input
+function validateInput(input) {
+  // Get the value and error element
+  const value = input.value;
+  const errorEl = input.closest('[data-formgroup]').querySelector('[data-formerror]');
+  // Declare error variable and assign null by default
+  let error = null;
+  // Check in input has data-required attribute and if the value is empty, and if the input is not radio or checkbox
+  if((input.type !== 'radio' || input.type !== 'checkbox') && input.dataset.required !== undefined && value === '') {
+    error = input.dataset.requiredMessage ? input.dataset.requiredMessage : 'This field is required';
+    input.classList.add('error');
+  }
+  // Check if input is checkbox and it is not checked
+  if(input.type === 'checkbox' && !input.checked) {
+    error = input.dataset.errorMessage ? input.dataset.errorMessage : 'This field is required';
+  }
+  // Check if input is radio
+  if(input.type === 'radio') {
+    // Get all radio inputs in a group
+    const radios = input.closest('[data-formgroup]').querySelectorAll('input[type="radio"]');
+    let isChecked = false;
+    let errorMsg = '';
+    // Loop through radios and check if any radio is checked and if it is checked set isChecked to true
+    radios.forEach(radio => {
+      if(radio.checked) {
+        isChecked = true;
+      }
+      if(radio.dataset.errorMessage) {
+        errorMsg = input.dataset.errorMessage;
+      }
+    });
+    if(!isChecked) {
+      error = errorMsg !== '' ? errorMsg : 'This field is required';
+    }
+  }
+  // Check if input has data-minlength attribute and if value length is smaller than this attribute, if so show the error
+  if(!error && input.dataset.minlength !== undefined && value.length < +input.dataset.minlength) {
+    error = 
+      input.dataset.minlengthMessage ? input.dataset.minlengthMessage : `Please enter at least ${input.dataset.minlength} characters`;
+    input.classList.add('error');
+  }
+  // Check if input has data-maxlength attribute and if value length is greater than this attribute, if so show the error
+  if(!error && input.dataset.maxlength !== undefined && value.length > +input.dataset.maxlength) {
+    error = 
+      input.dataset.maxlengthMessage ? input.dataset.maxlengthMessage : `Only ${input.dataset.maxlength} characters allowed`;
+    input.classList.add('error');
+  }
+  // Check if input has data-email attribute and if email is not valid
+  if(!error && input.dataset.email !== undefined && !validateEmail(value)) {
+    error = 
+      input.dataset.emailMessage ? input.dataset.emailMessage : 'Invalid email address';
+    input.classList.add('error');
+  }
+  // Check if input has data-match attribute and if value is not equal to the value of the element with name attribute equal to this data-match attribute
+  if(!error && input.dataset.match !== undefined && value !== input.closest('[data-form]').querySelector(`[name="${input.dataset.match}"]`).value) {
+    error = 
+      input.dataset.matchMessage ? input.dataset.matchMessage : 'Fields are not the same';
+    input.classList.add('error');
+  }
+  // Check if input has data-match-with attribute
+  if(input.dataset.matchWith !== undefined) {
+    // Get the input that has a name attribute equal to value of data-match-with attribute
+    const inputToMatch = input.closest('[data-form]').querySelector(`[name="${input.dataset.matchWith}"]`);
+    // Get the error element of that input
+    const inputToMatchError = inputToMatch.closest('[data-formgroup]').querySelector('[data-formerror]');
+    // If values are equal remove error class from input and hide error element
+    if(value === inputToMatch.value) {
+      inputToMatch.classList.remove('error');
+      inputToMatchError.style.display = 'none';
+    }else { // Add error class to input and show error element
+      inputToMatch.classList.add('error');
+      inputToMatchError.style.display = 'block';
+      inputToMatchError.innerText = inputToMatch.dataset.matchMessage || 'Fields are not the same';
+    }
+  }
+  // Check if input is file input and if has data-maxfilesize attribute and if file size is greater than the value of this data-maxfilesize attribute 
+  if(!error && input.type === 'file' && input.dataset.maxfilesize !== undefined && input.files[0].size > +input.dataset.maxfilesize * 1024) {
+    error = 
+      input.dataset.maxfilesizeMessage ? input.dataset.maxfilesizeMessage : 'File is too large';
+    input.classList.add('error');
+  }
+  // Check if input is file input and if it has data-allowed-types attribute and if file type is not equal to one of the values in data-allowed-type attribute
+  if(!error && input.type === 'file' && input.dataset.allowedTypes !== undefined && !input.dataset.allowedTypes.includes(input.files[0].type.split('/')[1])) {
+    error = 
+      input.dataset.allowedTypesMessage ? input.dataset.allowedTypesMessage : 'Invalid file type';
+    input.classList.add('error');
+  }
+  
+  // If there is no error remove error class from the input, remove message from error element and hide it
+  if(!error) {
+    input.classList.remove('error');
+    errorEl.innerText = '';
+    errorEl.style.display = 'none';
+  } else { // If there is error set error message and show error element
+    errorEl.innerText = error;
+    errorEl.style.display = 'block';
+  }
+  return error;
+}
+// Submit form - on submit btn click
+function submitForm(inputs, e) {
+  e.preventDefault();
+  const errors = [];
+  
+  inputs.forEach(input => {
+    const error = validateInput(input);
+    if(error) {
+      errors.push(error);
+    }
+  });
+  if(errors.length === 0) {
+    console.log('form can be submitted...');
+  }
+}
+// Validate email
+function validateEmail(email) {
+  var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  return re.test(String(email).toLowerCase());
+}
+
+  
+// Get elements
+const forms = document.querySelectorAll('form');
+// Check if form elements exist
+if(forms.length > 0) {
+  // Loop through forms
+  for(let form of forms) {
+    // Get all inputs with data-validate attribute
+    const inputs = form.querySelectorAll('[data-validate]');
+    // Submit form
+    form.addEventListener('submit', submitForm.bind(form, inputs));
+    
+    // Loop through inputs
+    inputs.forEach(input => {
+      // Add input event to all inputs and listen to inputChange function
+      input.addEventListener('input', inputChange);
+    });
+  }
+}
+</script>
+
+{% schema %}
+{
+  "name": "Contact form",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title"
+    },
+    {
+      "type": "select",
+      "id": "align_text",
+      "label": "Title alignment",
+      "default": "text-left",
+      "options": [
+        { "value": "text-left","label": "Left" },
+        { "value": "text-center","label": "Centered" },
+        { "value": "text-right","label": "Right" }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Button"
+    },
+    {
+      "type": "select",
+      "id": "button_size",
+      "label": "Size",
+      "default": "btn--long",
+      "options": [
+        {"value": "btn--small", "label": "Small button"},
+        {"value": "btn--medium", "label": "Medium button"},
+        {"value": "btn--large", "label": "Large button"},
+        {"value": "btn--long", "label": "Long button"},
+        {"value": "btn--large btn--full", "label": "Full width button"}
+      ]
+    },
+    {
+      "type": "select",
+      "id": "button_color",
+      "label": "Color",
+      "default": "btn--neutral",
+      "options": [
+        { "value": "btn--primary", "label": "Bright accent" },
+        { "value": "btn--secondary", "label": "Secondary accent" },
+        { "value": "btn--neutral", "label": "Text color" },
+        { "value": "btn--black", "label": "Black" },
+        { "value": "btn--white", "label": "White" }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "button_style",
+      "label": "Button style",
+      "default": "btn--outline",
+      "options": [
+        { "value": "btn", "label": "Solid button" },
+        { "value": "btn--soft", "label": "Soft button" },
+        { "value": "btn--outline", "label": "Outlined button" }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "select",
+      "id": "text_color",
+      "label": "Text",
+      "default": "text--neutral",
+      "options": [
+        { "value": "text--neutral", "label": "Normal text"},
+        { "value": "text--white", "label": "White"},
+        { "value": "text--primary", "label": "Primary accent"},
+        { "value": "text--secondary", "label": "Secondary accent"},
+        { "value": "text--black", "label": "Black"},
+        { "value": "text--invert--primary", "label": "Primary dark accent"},
+        { "value": "text--invert--secondary", "label": "Secondary dark accent"},
+        { "value": "text--invert", "label": "Inverted text color"},
+        { "value": "text--bright--primary", "label": "Primary bright accent"},
+        { "value": "text--bright--secondary", "label": "Secondary bright accent"}
+      ]
+    },
+    {
+      "type": "select",
+      "id": "bg",
+      "label": "Background",
+      "default": "palette--light bg--neutral",
+      "options": [
+        { "value": "palette--light bg--neutral", "label": "Default"},
+        { "value": "palette--light bg--accent", "label": "Light"},
+        { "value": "palette--dark bg--invert", "label": "Dark"},
+        { "value": "palette--dark bg--invert--accent", "label": "Dark accent"},
+        { "value": "palette--bright bg--bright", "label": "Bright"},
+        { "value": "palette--bright bg--bright--accent", "label": "Bright accent"}
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "select",
+      "id": "width",
+      "label": "Width",
+      "default": "wrapper--narrow",
+      "options": [
+        { "value": "wrapper--full", "label": "Full width padded" },
+        { "value": "wrapper", "label": "Page width" },
+        { "value": "wrapper--narrow", "label": "Page width narrow" },
+        { "value": "wrapper--tiny", "label": "Page width extra narrow" }
+      ]
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 180,
+      "step": 2,
+      "unit": "px",
+      "label": "Padding top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 180,
+      "step": 2,
+      "unit": "px",
+      "label": "Padding bottom",
+      "default": 36
+    }
+  ],
+  "blocks": [
+    {
+      "type": "email",
+      "name": "Email",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Label",
+          "default": "Email"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        }
+      ]
+    },
+    {
+      "type": "body",
+      "name": "Message",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "textarea",
+          "id": "title",
+          "label": "Label",
+          "default": "Message"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "name": "Text line",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Label",
+          "default": "Full Name",
+          "info": "Example: Full Name"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        }
+      ]
+    },
+    {
+      "type": "textarea",
+      "name": "Text area",
+      "settings": [
+        {
+          "type": "textarea",
+          "id": "title",
+          "label": "Label",
+          "default": "Enter your message",
+          "info": "Example: Enter your message"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        }
+      ]
+    },
+    {
+      "type": "telephone",
+      "name": "Telephone",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Label",
+          "default": "Phone Number",
+          "info": "Example: Phone Number"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        }
+      ]
+    },
+    {
+      "type": "form_heading",
+      "name": "Heading",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Heading",
+          "info": "Use to break up longer forms"
+        }
+      ]
+    },
+    {
+      "type": "spacer",
+      "name": "Spacer",
+      "settings": [
+        {
+          "type": "checkbox",
+          "id": "line",
+          "label": "Show line",
+          "default": false
+        }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "name": "Single checkbox",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Label",
+          "default": "Checkbox option",
+          "info": "Example: Subscribe to newsletter"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "name": "Select dropdown",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Select an option",
+          "info": "Example: Choose a delivery location"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        },
+        {
+          "type": "header",
+          "content": "Include up to six options",
+          "info":  "Options with blank text will not appear."
+        },
+        {
+          "type": "text",
+          "id": "label_one",
+          "default": "Option one",
+          "label": "Option one"
+        },
+        {
+          "type": "text",
+          "id": "label_two",
+          "default": "Option two",
+          "label": "Option two"
+        },
+        {
+          "type": "text",
+          "id": "label_three",
+          "default": "Option three",
+          "label": "Option three"
+        },
+        {
+          "type": "text",
+          "id": "label_four",
+          "default": "Option four",
+          "label": "Option four"
+        },
+        {
+          "type": "text",
+          "id": "label_five",
+          "default": "Option five",
+          "label": "Option five"
+        },
+        {
+          "type": "text",
+          "id": "label_six",
+          "default": "Option six",
+          "label": "Option six"
+        }
+      ]
+    },
+    {
+      "type": "radio",
+      "name": "Radio buttons",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Pick an option"
+        },
+        {
+          "type": "checkbox",
+          "id": "required",
+          "label": "Required?",
+          "default": true
+        },
+        {
+          "type": "header",
+          "content": "Include up to six options",
+          "info":  "Leave option text blank to exclude"
+        },
+        {
+          "type": "text",
+          "id": "label_one",
+          "default": "Option one",
+          "label": "Option one"
+        },
+        {
+          "type": "text",
+          "id": "label_two",
+          "default": "Option two",
+          "label": "Option two"
+        },
+        {
+          "type": "text",
+          "id": "label_three",
+          "label": "Option three"
+        },
+        {
+          "type": "text",
+          "id": "label_four",
+          "label": "Option four"
+        },
+        {
+          "type": "text",
+          "id": "label_five",
+          "label": "Option five"
+        },
+        {
+          "type": "text",
+          "id": "label_six",
+          "label": "Option six"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Contact form",
+      "category": "Text",
+      "blocks": [
+        {
+          "type": "text"
+        },
+        {
+          "type": "email"
+        },
+        {
+          "type": "body"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["header","footer","aside"]
+  }
+}
+{% endschema %}

@@ -1,0 +1,330 @@
+<!-- /sections/section-bios.liquid -->
+
+{% liquid
+  assign blockList = ''
+  for block in section.blocks
+    assign blockList = blockList | append: block.type | append: ','
+    assign blockList = blockList | replace: 'video', 'image'
+  endfor
+%}
+
+<div class="wrapper section-padding">
+  <div class="flex-grid">
+    {% for block in section.blocks %}  
+    
+      {% if block.settings.bios_name %}
+  
+        <div class="item">
+      
+          <a class="" href="#modal--{{ block.settings.bios_name | downcase | replace: ' ', '-' }}">
+            
+            {% if block.settings.bios_image %}
+              <div class="image__hero__frame fade-in-child aspect-[--wh-ratio-mobile] md:aspect-[--wh-ratio]" aos-init aos-animate data-aos="hero">
+                <img style="aspect-ratio: 1;object-fit: contain;" width="100%" height="auto" class="bio-image block overflow-hidden w-full h-full object-cover transition-opacity duration-300 ease-linear " src="{{ block.settings.bios_image | img_url: '600x' }}" alt="{{ block.settings.bios_name }}" title="{{ block.settings.bios_name }}" />
+              </div>
+            {% endif%}
+            {% if block.settings.bios_name != empty %}
+                <h3 data-aos="hero" class="standard__heading heading-size-3 aos-init aos-animate bio-name">{{ block.settings.bios_name }}</h3>
+            {% endif %}	
+             {% if block.settings.bios_title or block.settings.bios_company != empty %}
+            <p data-aos="hero" class="standard__kicker accent-size-2 aos-init aos-animate bio-title">
+              {% endif %}
+      
+            {% if block.settings.bios_title != empty %}
+                <strong>{{ block.settings.bios_title }}</strong>
+            {% endif %}	
+  
+             {% if block.settings.bios_title or block.settings.bios_company != empty %}
+             </p>
+              {% endif %}
+        
+            {% if block.settings.bios_company != empty %}
+                <p class="company">{{ block.settings.bios_company }}</p>
+            {% endif %}
+            
+          </a>
+        </div>	
+    
+      {% endif %}
+    
+    {% endfor %}
+  </div>
+</div>
+
+{% for block in section.blocks %}  
+
+  {% if block.settings.bios_name %}
+  
+	<article id="modal--{{ block.settings.bios_name | downcase | replace: ' ', '-' }}" class="bios section-padding wrapper modal-window">
+      <div>
+        
+        <a href="#" title="Close" class="modal-close">Close</a>
+        
+        {% if block.settings.bios_image %}
+        <div class="brick__section brick--2 brick__section--reverse">
+  	    <div class="brick__block">
+            <div class="brick__block__text brick__block__text--transparent text--neutral" data-overflow-frame="" style="--bg: ; min-height: 615px;">
+              <div class="brick__block__text__inner">
+        {% endif%}
+            
+            {% if block.settings.bios_name != empty %}
+                <h2 data-aos="hero" class="standard__heading heading-size-9 aos-init aos-animate bio-name">{{ block.settings.bios_name }}</h2>
+            {% endif %}	
+  
+            {% if block.settings.bios_title or block.settings.bios_company != empty %}
+            <p data-aos="hero" class="standard__kicker aos-init aos-animate bio-title">
+              {% endif %}
+      
+            {% if block.settings.bios_title != empty %}
+                <strong>{{ block.settings.bios_title }}</strong>
+            {% endif %}	
+  
+             {% if block.settings.bios_title or block.settings.bios_company != empty %}
+             </p>
+              {% endif %}
+            
+            {% if block.settings.bios_company != empty %}
+              {% if block.settings.bios_company_link != empty %}<a href="{{ block.settings.bios_company_link }}" target="_blank">{% endif %}
+                <p class="company standard__kicker">{{ block.settings.bios_company }}</p>
+              {% if block.settings.bios_company_link != empty %}</a>{% endif %}
+            {% endif %}
+  
+            <div data-aos="hero" class="rte body-size-2 columns--1 aos-init aos-animate">
+                
+              <strong class="bio-contact">
+              {% if block.settings.bios_email != empty %}
+                  <span class="bio-email"><a href="mailto:{{ block.settings.bios_email }}">{{ block.settings.bios_email }}</a></span>
+              {% endif %}	
+              {% if block.settings.bios_linkedin != empty %}
+                 {% if block.settings.bios_email != empty %}| {% endif %}<span class="bio-linkedin"><a href="{{ block.settings.bios_linkedin }}" target="_blank">Linkedin</a></span>
+              {% endif %}
+              </strong>
+              
+              {% if block.settings.bios_location != empty %}
+                  <p class="bio-location">{{ block.settings.bios_location }}</p>
+              {% endif %}	
+    
+              {% if block.settings.bios_details != empty %}
+                  <div class="bio-details">{{ block.settings.bios_details }}</div>
+              {% endif %}	
+    
+              {% if block.settings.bios_artwork != empty %}
+                <div class="bio-artwork">
+                  Featured Artwork: <a href="/products/{{ block.settings.bios_artwork.handle }}" target="_blank">{{ block.settings.bios_artwork.title }}</a>&nbsp; by {{ block.settings.bios_artwork.vendor }}
+                </div>
+              {% endif %}
+              {% if block.settings.bios_quote != empty %}
+                <blockquote class="bio-quote"><em>{{ block.settings.bios_quote }}</em></blockquote>
+              {% endif %}
+            </div>
+  
+        {% if block.settings.bios_image %}
+              </div>
+            </div>
+          </div>
+  	    <div class="brick__block">
+            <div class="image__hero__frame fade-in-child aspect-[--wh-ratio-mobile] md:aspect-[--wh-ratio]" aos-init aos-animate data-aos="hero">
+              <img style="aspect-ratio: 1;object-fit: contain;" width="100%" height="auto" class="bio-image block overflow-hidden w-full h-full object-cover transition-opacity duration-300 ease-linear " src="{{ block.settings.bios_image | img_url: '600x' }}" alt="{{ block.settings.bios_name }}" title="{{ block.settings.bios_name }}" />
+            </div>
+          </div>
+        </div> 
+        {% endif%}
+      </div>
+	</article>
+		
+
+  {% endif %}
+
+{% endfor %}
+
+<style>
+  .bio-quote {margin-top: 20px; font-size: calc(var(--font-2) * var(--FONT-ADJUST-BODY))}
+  .bio-location { margin-top: 10px !important;}
+  .bio-artwork a {
+  	font-family: "Lato-regular",sans-serif;
+    font-style: italic;
+  }
+
+
+
+  .flex-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 5%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+  }
+  .flex-grid .item {
+    flex-basis: 21.2%;
+    text-align: center;
+  }
+  .flex-grid .item .image__hero__frame {
+    margin-bottom: 7px;
+  }
+  .flex-grid .item h3 {
+    margin-bottom: 10px;
+  }
+
+
+  .modal-window {
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.25);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 111999;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s;
+    overflow: auto;
+    max-width: none !important;
+    background: white;
+    &:target {
+      visibility: visible;
+      opacity: 1;
+      pointer-events: auto;
+    }
+    & > div {
+      width: 1200px;
+      max-width: 100%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 2em;
+      background: white;
+    }
+    header {
+      font-weight: bold;
+    }
+    h1 {
+      font-size: 150%;
+      margin: 0 0 15px;
+    }
+  }
+  
+  .modal-close {
+    color: #aaa;
+    line-height: 50px;
+    font-size: 80%;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 70px;
+        z-index: 10;
+    text-decoration: none;
+    &:hover {
+      color: black;
+    }
+  }  
+
+  @media screen and (max-width: 1000px) {
+    .flex-grid .item {
+      flex-basis: 30%;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .flex-grid .item {
+      flex-basis: 47.5%;
+    }
+    .modal-window > div {
+      top: 0%;
+      left: 0%;
+      transform: translate(0%, 0%);
+    }
+  }
+</style>
+
+{% schema %}
+  {
+    "name": "Bios",
+    "settings": [
+	],
+	"blocks": [
+		{
+        "type": "select",
+        "name": "Bio",
+        "settings": [
+          {
+            "type": "text",
+            "id": "bios_name",
+            "label": "Name"
+          },
+          {
+            "type": "text",
+            "id": "bios_pronouns",
+            "label": "Pronouns"
+          },
+          {
+            "type": "text",
+            "id": "bios_title",
+            "label": "Title"
+          },
+          {
+            "type": "text",
+            "id": "bios_location",
+            "label": "Location"
+          },
+          {
+            "type": "text",
+            "id": "bios_company",
+            "label": "Company"
+          },
+          {
+            "type": "text",
+            "id": "bios_company_link",
+            "label": "Company Link"
+          },
+          {
+            "type": "richtext",
+            "id": "bios_details",
+            "label": "Details"
+          },
+          {
+            "type": "product",
+            "id": "bios_artwork",
+            "label": "Featured Artwork"
+          },
+          {
+            "type": "richtext",
+            "id": "bios_quote",
+            "label": "Quote"
+          },
+          {
+            "type": "image_picker",
+            "id": "bios_image",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "bios_email",
+            "label": "Email"
+          },
+          {
+            "type": "text",
+            "id": "bios_linkedin",
+            "label": "Linkedin"
+          }
+		]
+		}		
+	],
+  "presets": [
+    {
+      "name": "Bios",
+      "category": "Image",
+      "blocks": [
+        {
+          "type": "select"
+        }
+      ]
+    }
+  ],
+  "disabled_on": {
+    "groups": ["header","footer","aside"]
+  }
+}
+{% endschema %}
