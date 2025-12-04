@@ -6,8 +6,8 @@
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.3c434e22befd5c18a6b4afadb1e3d77c128c7939.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=03f4b97956d690dda2a9ea50ad11cf7065f98bb02f594726ca9d3b9721134987") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.5d9fa6e2cae713c8fb539a9876489d86207fe957.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=d4df9cc5a6fa71ae7cc7e9cb21771382679780290cf29a1d270aeda58c568c77") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.3c434e22befd5c18a6b4afadb1e3d77c128c7939.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.5d9fa6e2cae713c8fb539a9876489d86207fe957.woff") format("woff");
 }
 
 @font-face {
@@ -15,8 +15,8 @@
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n4.81949fa0ac9fd2021e16436151e8eaa539321637.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=a13f6826b6a12b7ec056270c1ed2d3f58422f6c33ba6d06c06166b2d527ab388") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n4.a6c632ca7b62da89c3594789ba828388aac693fe.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=bd6563d3497baaca63335e7126708dea1ee0cc1bd028bd74afcfbfe74d6c3aea") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n4.81949fa0ac9fd2021e16436151e8eaa539321637.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n4.a6c632ca7b62da89c3594789ba828388aac693fe.woff") format("woff");
 }
 
 @font-face {
@@ -24,8 +24,8 @@
   font-weight: 600;
   font-style: normal;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n6.1326b3e84230700ef15b3a29fb520639977513e0.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=7f92c0dc78b05df55030ea2b5f5a044a594972652e80f371d418f5eb8cda1a5e") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n6.652f051080eb14192330daceed8cd53dfdc5ead9.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=073a5d5997360e2faee46dcb5f9991641026fc0679c7c897d2ee2a141f93c01d") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n6.1326b3e84230700ef15b3a29fb520639977513e0.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n6.652f051080eb14192330daceed8cd53dfdc5ead9.woff") format("woff");
 }
 
 
@@ -35,8 +35,8 @@
   font-weight: 800;
   font-style: normal;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n8.853056e398b4dadf6838423edb7abaa02f651554.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=732ffc075ce6d990ca526048b3acc5fa12d78cad9dd3b03f61f15ead11135537") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n8.9201aba6104751e1b3e48577a5a739fc14862200.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=a0d379402c1fabaac0f30272b1206761a0a339cb5e9eb75319fa7d49b54680f5") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n8.853056e398b4dadf6838423edb7abaa02f651554.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n8.9201aba6104751e1b3e48577a5a739fc14862200.woff") format("woff");
 }
 
 
@@ -47,8 +47,8 @@
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.3c434e22befd5c18a6b4afadb1e3d77c128c7939.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=03f4b97956d690dda2a9ea50ad11cf7065f98bb02f594726ca9d3b9721134987") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.5d9fa6e2cae713c8fb539a9876489d86207fe957.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=d4df9cc5a6fa71ae7cc7e9cb21771382679780290cf29a1d270aeda58c568c77") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.3c434e22befd5c18a6b4afadb1e3d77c128c7939.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n7.5d9fa6e2cae713c8fb539a9876489d86207fe957.woff") format("woff");
 }
 
 
@@ -59,8 +59,8 @@
   font-weight: 500;
   font-style: normal;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n5.07ef3781d9c78c8b93c98419da7ad4fbeebb6635.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=3d46b2bb4df53ad7bf5baa7c6556c1b6d2c92dfc65bb48ebe5d8d30c177b7229") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n5.adf9b4bd8b0e4f55a0b203cdd84512667e0d5e4d.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=cb35f6e2294daaab5d46825f7398a808dd9e2054c3b19c0c861eafe43873e26b") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n5.07ef3781d9c78c8b93c98419da7ad4fbeebb6635.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_n5.adf9b4bd8b0e4f55a0b203cdd84512667e0d5e4d.woff") format("woff");
 }
 
 
@@ -74,8 +74,8 @@
   font-weight: 400;
   font-style: italic;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i4.5a4ea298b4789e064f62a29aafc18d41f09ae59b.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=6620d13d867129151af18978832f4163f8f7b8169b8520ee6b3d2b412a6813d8") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i4.072b5869c5e0ed5b9d2021e4c2af132e16681ad2.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=bb5c58b8cdccda8857ecaacef9be057fb70e15019d5d86d4c8f68918c853a3a5") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i4.5a4ea298b4789e064f62a29aafc18d41f09ae59b.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i4.072b5869c5e0ed5b9d2021e4c2af132e16681ad2.woff") format("woff");
 }
 
 
@@ -85,8 +85,8 @@
   font-weight: 500;
   font-style: italic;
   font-display: swap;
-  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i5.d3a783eb0cc26f2fda1e99d1dfec3ebaea1dc164.woff2?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=cc26cc46e1c0834d3aa497605f3e74e6813e6c23fca1ee057a189ef1dc5c7333") format("woff2"),
-       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i5.76d414ea3d56bb79ef992a9c62dce2e9063bc062.woff?h1=YXJ0bGlmdGluZy5jb20&h2=YXJ0bGlmdGluZy5jbw&h3=YXJ0LWxpZnRpbmcuY29t&h4=YXJ0bGlmdGluZy5uZXQ&h5=YXJ0bGlmdGluZy5pbmZv&h6=YXJ0bGlmdGluZy0zLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h7=ZnRwLmFydGxpZnRpbmcuY29t&hmac=d2e8739ec8e7db5b641919edf386c63f2fc214efdd8d9796c232f24221c2a885") format("woff");
+  src: url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i5.d3a783eb0cc26f2fda1e99d1dfec3ebaea1dc164.woff2") format("woff2"),
+       url("//www.artlifting.com/cdn/fonts/montserrat/montserrat_i5.76d414ea3d56bb79ef992a9c62dce2e9063bc062.woff") format("woff");
 }
 
 
