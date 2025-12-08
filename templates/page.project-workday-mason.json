@@ -1,0 +1,472 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": true,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_hero_xXCEGj": {
+      "type": "section-hero",
+      "blocks": {
+        "kicker_KHjAwJ": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Public Art | Aviation",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_pKUDYh": {
+          "type": "heading",
+          "settings": {
+            "title": "Delta One Lounge LAX",
+            "text_size": 9
+          }
+        },
+        "text_7YyWWq": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Los Angeles, CA</p>",
+            "text_size": 6
+          }
+        }
+      },
+      "block_order": [
+        "kicker_KHjAwJ",
+        "heading_pKUDYh",
+        "text_7YyWWq"
+      ],
+      "settings": {
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 25,
+        "overlay_color": "#000000",
+        "enable_overlay_text": true,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--bottom-left",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_gallery_tcEqpm": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_zwLH8N": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_MayG63": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_VKixbN": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zwLH8N",
+        "image_MayG63",
+        "image_VKixbN"
+      ],
+      "settings": {
+        "scale_image": true,
+        "wh_ratio": 1.5,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 3,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_custom_content_CFhtJp": {
+      "type": "section-custom-content",
+      "blocks": {
+        "text_GPU8Xb": {
+          "type": "text",
+          "settings": {
+            "kicker": "Project Highlights",
+            "enable_line": true,
+            "kicker_text_size": 5,
+            "title": "",
+            "text": "<ul><li><strong>Property Type: </strong></li><li><strong>Property Size: </strong></li><li><strong>Services Provided:</strong> Art curation and installation of original artwork</li><li><strong>Partners: </strong></li></ul>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "text_FUbyW7": {
+          "type": "text",
+          "settings": {
+            "kicker": "Featured Artists",
+            "enable_line": true,
+            "kicker_text_size": 5,
+            "title": "",
+            "text": "<p><a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>, <a href=\"https://www.artlifting.com/collections/eric-santamaria\"><span style=\"text-decoration:underline\">Eric Santamaria</span></a>.</p>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_GPU8Xb",
+        "text_FUbyW7"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "brick_gutter": 20,
+        "borders": false,
+        "vertalign": "valign--top",
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "section_custom_content_kMAXdn": {
+      "type": "section-custom-content",
+      "blocks": {
+        "text_F7rw9M": {
+          "type": "text",
+          "settings": {
+            "kicker": "Key Takeaways",
+            "enable_line": true,
+            "kicker_text_size": 5,
+            "title": "",
+            "text": "<ul><li>Original artworks by local Los Angeles artists elevate the luxury experience and align with Delta’s premium brand identity.</li><li>Large-scale, dynamic visuals create a bold first impression in a sleek, modern space.</li><li>Featuring local talent supports authentic placemaking while reinforcing Delta’s commitment to community impact and inclusive creativity.</li></ul>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_F7rw9M"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "brick_gutter": 20,
+        "borders": false,
+        "vertalign": "valign--top",
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_richtext_CBpRyR": {
+      "type": "section-richtext",
+      "blocks": {
+        "text_RQWJaW": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><strong>“It means a great deal that [my artwork] will be in a space where it will be seen and appreciated. I feel emboldened to keep at my art-making, much less worried about my stability on the road ahead, and much more confident. Thank you.”</strong></h5><p><br/>- <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>, ArtLifting artist</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "text_RQWJaW"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_mCYk3E": {
+      "type": "section-richtext",
+      "blocks": {
+        "heading_BKPaEp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Designing a First Impression",
+            "text_size": 8
+          }
+        },
+        "text_igWW9A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In 2023, Delta Airlines partnered with ArtLifting to bring original artwork into its new Delta One Lounge at LAX—a private check-in experience reserved for Delta’s most high-profile travelers. The custom art curation was designed to match the sophistication and privacy of the space, creating a modern yet humanizing environment from the very first touchpoint of the journey. Delta also prioritized featuring local Los Angeles artists, contributing to a sense of localized placemaking and grounding the experience in the cultural richness of the city.</p><p><br/>ArtLifting’s curation played a key role in defining the visual identity of this premium lounge, as the artworks offer an energizing contrast to the neutral palette of the lounge. Four artworks were selected to bring a sense of movement, elegance, and originality to the terminal’s clean architectural design: two striking, large-scale mixed media pieces by Eric Santamaria; and two works by Alicia Sterling Beach, including a large scale, dynamic basswood sculpture and an acrylic and rich gold leaf painting on canvas. The curated mix of textures and scale adds a sense of refinement while highlighting the individuality of each artist’s story and perspective.</p><p><br/>This project builds on Delta’s growing partnership with ArtLifting, which also includes original artwork acquisitions for the Delta One terminal at JFK. Through the integration of original artworks by talented artists with disabilities, Delta enhances the visual and emotional experience of its luxury terminals while demonstrating a clear commitment to inclusive, community-driven design.</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "heading_BKPaEp",
+        "text_igWW9A"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_XVeAGC": {
+      "type": "section-richtext",
+      "blocks": {
+        "text_4engKB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Media</strong></p><ul><li><a href=\"https://thepointsguy.com/news/delta-one-check-in-sky-way-lax/\"><span style=\"text-decoration:underline\"><strong>The Points Guy</strong></span></a> | Delta debuts gorgeous premium check-in lounge, Sky Way upgrades in Los Angeles</li></ul>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "text_4engKB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_8N4fUc": {
+      "type": "section-richtext",
+      "blocks": {
+        "text_nwbWn8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Images</strong></p><p>1. Banner: <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>’s <em>Butterfly of the Mountain</em>, a vibrant, 11-foot by 6-foot, wall-mounted sculpture, anchors the lounge area. The artwork is composed of vertically arranged, painted basswood planks in varying lengths, forming an abstract silhouette reminiscent of butterfly wings. The planks are painted in a gradient of colors—soft blues, pinks, greens, purples, reds, and neutrals—that create a rhythmic visual flow. In the foreground, beige and white modern lounge chairs surround small tables with yellow orchid arrangements. Three sleek, black-and-gold pendant lights hang overhead. <em>Photo by Zach Griff / The Points Guy.</em></p><p><br/>2. <a href=\"https://www.artlifting.com/collections/eric-santamaria\"><span style=\"text-decoration:underline\">Eric Santamaria</span></a>’s <em>Untitled 1</em>, a 11 feet wide by 5 feet tall, abstract black-and-white painting, hangs prominently on the left wall of a sleek security corridor. The artwork features expressive black splatters and gestural marks across a white canvas, complementing the corridor’s minimalist, neutral-toned palette. Nearby, a metal trash bin and black stanchions mark the security line. <em>Photo by Zach Griff / The Points Guy.</em></p><p><br/>3. <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach’</span></a>s <em>Diamond Patchwork</em>, an acrylic and gold leaf painting on canvas, hangs on a pale wall next to a glass security door in the Delta One lounge corridor. The artwork, measuring approximately 4 feet by 4 feet, features a vibrant, geometric pattern made up of interlocking diamond shapes in bold colors like yellow, blue, pink, green, red, and black, with a few sections shimmering with gold leaf. The colorful composition adds energy and brightness to the otherwise neutral-toned space. <em>Photo by Zach Griff / The Points Guy.</em></p><p><br/>4. A closer look at <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>’s <em>Butterfly of the Mountain</em> in the Delta One lounge area. <em>Photo by Zach Griff / The Points Guy.<br/><br/></em>5. The counter space of the Delta One Lounge at LAX features a sleek and modern check-in area with three marble-clad desks. Behind the desks, a dark wood-paneled wall with pendant lights and a backlit Delta One logo adds to the upscale ambiance. To the right in the background hangs <em>Untitled 2</em> by <a href=\"https://www.artlifting.com/collections/eric-santamaria\"><span style=\"text-decoration:underline\">Eric Santamaria</span></a>—a large abstract artwork measuring approximately 11 feet wide by 5 feet tall. The piece features expressive black splatters on a white background, echoing the refined yet contemporary aesthetic of the lounge.  <em>Photo by Zach Griff / The Points Guy.</em></p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "text_nwbWn8"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_contact_nRHrHF": {
+      "type": "section-contact",
+      "blocks": {
+        "select_QzKLrA": {
+          "type": "select",
+          "settings": {
+            "title": "Topic",
+            "required": true,
+            "label_one": "General Inquiries",
+            "label_two": "Consumer Sales",
+            "label_three": "Corporate Sales",
+            "label_four": "Artists",
+            "label_five": "Partnerships",
+            "label_six": ""
+          }
+        },
+        "email_KepGKR": {
+          "type": "email",
+          "settings": {
+            "title": "Name",
+            "required": true
+          }
+        },
+        "text_QzTHDz": {
+          "type": "text",
+          "settings": {
+            "title": "E-mail",
+            "required": true
+          }
+        },
+        "telephone_dV3qVe": {
+          "type": "telephone",
+          "settings": {
+            "title": "Phone",
+            "required": false
+          }
+        },
+        "text_wE8daA": {
+          "type": "text",
+          "settings": {
+            "title": "How did you hear about us?",
+            "required": false
+          }
+        },
+        "body_4tFmwh": {
+          "type": "body",
+          "settings": {
+            "title": "Message",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "select_QzKLrA",
+        "email_KepGKR",
+        "text_QzTHDz",
+        "telephone_dV3qVe",
+        "text_wE8daA",
+        "body_4tFmwh"
+      ],
+      "settings": {
+        "title": "Let's talk about art!",
+        "align_text": "text-left",
+        "button_size": "btn--large",
+        "button_color": "btn--secondary",
+        "button_style": "btn",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_custom_content_Dc8j3k": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_8MHhaF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wallcoverings_Stoneleigh_Installation_Photo_Allen_Chamberland_2.jpg",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "enable_overlay_text": true,
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "Portfolio",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "https://www.artlifting.com/cdn/shop/files/Prints_BoA_Installation_Photo_Rudolph_Jean-Louis.jpg?v=1707353806&width=1200",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "image_nDTXLR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/020824-Artlifting-Mural-11.jpg",
+            "overlay_opacity": 25,
+            "overlay_color": "#000000",
+            "enable_overlay_text": true,
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "Services",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "https://www.artlifting.com/pages/services",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "image_8MHhaF",
+        "image_nDTXLR"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 12,
+        "borders": false,
+        "vertalign": "valign--middle",
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_hero_xXCEGj",
+    "section_gallery_tcEqpm",
+    "section_custom_content_CFhtJp",
+    "section_custom_content_kMAXdn",
+    "section_richtext_CBpRyR",
+    "section_richtext_mCYk3E",
+    "section_richtext_XVeAGC",
+    "section_richtext_8N4fUc",
+    "section_contact_nRHrHF",
+    "section_custom_content_Dc8j3k"
+  ]
+}
