@@ -33,7 +33,7 @@
         "kicker_KHjAwJ": {
           "type": "kicker",
           "settings": {
-            "kicker": "Public Art | Aviation",
+            "kicker": "Workplace | Professional Services",
             "enable_line": false,
             "text_size": 4
           }
@@ -41,14 +41,14 @@
         "heading_pKUDYh": {
           "type": "heading",
           "settings": {
-            "title": "Delta One Lounge LAX",
+            "title": "Workday Mason Cincinnati",
             "text_size": 9
           }
         },
         "text_7YyWWq": {
           "type": "text",
           "settings": {
-            "richtext": "<p>Los Angeles, CA</p>",
+            "richtext": "<p>Cincinnati, OH</p>",
             "text_size": 6
           }
         }
@@ -59,6 +59,7 @@
         "text_7YyWWq"
       ],
       "settings": {
+        "image": "shopify://shop_images/S13L2224.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 25,
         "overlay_color": "#000000",
@@ -79,18 +80,21 @@
         "image_zwLH8N": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/S13L2180_1.jpg",
             "link": ""
           }
         },
         "image_MayG63": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/S13L2185.jpg",
             "link": ""
           }
         },
         "image_VKixbN": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/S13L2190.jpg",
             "link": ""
           }
         }
@@ -124,7 +128,7 @@
             "enable_line": true,
             "kicker_text_size": 5,
             "title": "",
-            "text": "<ul><li><strong>Property Type: </strong></li><li><strong>Property Size: </strong></li><li><strong>Services Provided:</strong> Art curation and installation of original artwork</li><li><strong>Partners: </strong></li></ul>",
+            "text": "<ul><li><strong>Property Details: </strong>Corporate office<strong> </strong></li><li><strong>Services Provided:</strong> Curation, coordination, and installation of a mix of print reproductions, original artwork, and three-dimensional wall art. </li></ul>",
             "font_size": 4,
             "text_columns": 1,
             "align_text": "text-left",
@@ -143,7 +147,7 @@
             "enable_line": true,
             "kicker_text_size": 5,
             "title": "",
-            "text": "<p><a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>, <a href=\"https://www.artlifting.com/collections/eric-santamaria\"><span style=\"text-decoration:underline\">Eric Santamaria</span></a>.</p>",
+            "text": "<p><a href=\"https://www.artlifting.com/collections/carlos-canon\"><span style=\"text-decoration:underline\">Carlos Canon</span></a>, <a href=\"https://www.artlifting.com/collections/eliza-redmann\"><span style=\"text-decoration:underline\">Eliza Redmann</span></a>, <a href=\"https://www.artlifting.com/collections/kate-snow\"><span style=\"text-decoration:underline\">Kate Snow</span></a>, <a href=\"https://www.artlifting.com/collections/mj-cooper\"><span style=\"text-decoration:underline\">MJ Cooper</span></a>, <a href=\"https://www.artlifting.com/collections/quana-madison\"><span style=\"text-decoration:underline\">Quána Madison</span></a>. </p>",
             "font_size": 4,
             "text_columns": 1,
             "align_text": "text-left",
@@ -183,7 +187,7 @@
             "enable_line": true,
             "kicker_text_size": 5,
             "title": "",
-            "text": "<ul><li>Original artworks by local Los Angeles artists elevate the luxury experience and align with Delta’s premium brand identity.</li><li>Large-scale, dynamic visuals create a bold first impression in a sleek, modern space.</li><li>Featuring local talent supports authentic placemaking while reinforcing Delta’s commitment to community impact and inclusive creativity.</li></ul>",
+            "text": "<ul><li>ArtLifting developed a structured art program that supported Workday’s workplace design goals through a cohesive selection of original artwork, print reproductions, and dimensional pieces.</li><li>The project advanced Workday’s commitment to investing in underrepresented artists by integrating a range of perspectives and artistic processes throughout the office environment.</li></ul>",
             "font_size": 4,
             "text_columns": 1,
             "align_text": "text-left",
@@ -218,7 +222,7 @@
         "text_RQWJaW": {
           "type": "text",
           "settings": {
-            "text": "<h5><strong>“It means a great deal that [my artwork] will be in a space where it will be seen and appreciated. I feel emboldened to keep at my art-making, much less worried about my stability on the road ahead, and much more confident. Thank you.”</strong></h5><p><br/>- <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>, ArtLifting artist</p>",
+            "text": "<h5><strong>“The art provided by the artists at ArtLifting totally transformed our office. These pieces were so clearly created with the talent, passion, and energy we want we feel in our space everyday. We are grateful to the artists for sharing their work and providing our employees with an elevated experience.”</strong></h5><p><br/>- Johanna Turko, Global Sustainability Design Lead at Workday</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -243,14 +247,14 @@
         "heading_BKPaEp": {
           "type": "heading",
           "settings": {
-            "heading": "Designing a First Impression",
+            "heading": "Art Integration Aligned With Materiality, Form, and Workplace Flow",
             "text_size": 8
           }
         },
         "text_igWW9A": {
           "type": "text",
           "settings": {
-            "text": "<p>In 2023, Delta Airlines partnered with ArtLifting to bring original artwork into its new Delta One Lounge at LAX—a private check-in experience reserved for Delta’s most high-profile travelers. The custom art curation was designed to match the sophistication and privacy of the space, creating a modern yet humanizing environment from the very first touchpoint of the journey. Delta also prioritized featuring local Los Angeles artists, contributing to a sense of localized placemaking and grounding the experience in the cultural richness of the city.</p><p><br/>ArtLifting’s curation played a key role in defining the visual identity of this premium lounge, as the artworks offer an energizing contrast to the neutral palette of the lounge. Four artworks were selected to bring a sense of movement, elegance, and originality to the terminal’s clean architectural design: two striking, large-scale mixed media pieces by Eric Santamaria; and two works by Alicia Sterling Beach, including a large scale, dynamic basswood sculpture and an acrylic and rich gold leaf painting on canvas. The curated mix of textures and scale adds a sense of refinement while highlighting the individuality of each artist’s story and perspective.</p><p><br/>This project builds on Delta’s growing partnership with ArtLifting, which also includes original artwork acquisitions for the Delta One terminal at JFK. Through the integration of original artworks by talented artists with disabilities, Delta enhances the visual and emotional experience of its luxury terminals while demonstrating a clear commitment to inclusive, community-driven design.</p>",
+            "text": "<p>ArtLifting partnered with Workday Mason Cincinnati to address their need for artwork that supported the interior design strategy and reinforced their commitment to an inclusive workplace. ArtLifting structured the project around a Botanical Deco concept that used neutral tones, greens, and architectural curves to align with the existing environment. The team curated a mix of original artworks, print reproductions, and dimensional pieces from the Infinity Collection to create visual consistency across work areas, circulation paths, and shared spaces. This approach allowed the artwork to contribute clarity, rhythm, and points of engagement throughout the office while meeting Workday’s interest in investing in underrepresented artists.</p><p><br/>ArtLifting selected works that featured botanical themes, geometric forms, and layered textures to maintain a cohesive visual direction. The Infinity Collection by Eliza Redmann introduced three dimensional elements in resin and concrete that supported the project’s focus on material depth and strong formal presence. Prints and originals by Carlos Canon, Kate Snow, MJ Cooper, and Quána Madison offered variation in scale and technique and added color transitions that supported movement along the corridors. By sourcing artwork from artists with diverse lived experiences, the collection advanced Workday’s goal of integrating underrepresented voices into the physical workplace.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -286,6 +290,7 @@
       "block_order": [
         "text_4engKB"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "align_text": "text-left",
@@ -303,7 +308,7 @@
         "text_nwbWn8": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Images</strong></p><p>1. Banner: <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>’s <em>Butterfly of the Mountain</em>, a vibrant, 11-foot by 6-foot, wall-mounted sculpture, anchors the lounge area. The artwork is composed of vertically arranged, painted basswood planks in varying lengths, forming an abstract silhouette reminiscent of butterfly wings. The planks are painted in a gradient of colors—soft blues, pinks, greens, purples, reds, and neutrals—that create a rhythmic visual flow. In the foreground, beige and white modern lounge chairs surround small tables with yellow orchid arrangements. Three sleek, black-and-gold pendant lights hang overhead. <em>Photo by Zach Griff / The Points Guy.</em></p><p><br/>2. <a href=\"https://www.artlifting.com/collections/eric-santamaria\"><span style=\"text-decoration:underline\">Eric Santamaria</span></a>’s <em>Untitled 1</em>, a 11 feet wide by 5 feet tall, abstract black-and-white painting, hangs prominently on the left wall of a sleek security corridor. The artwork features expressive black splatters and gestural marks across a white canvas, complementing the corridor’s minimalist, neutral-toned palette. Nearby, a metal trash bin and black stanchions mark the security line. <em>Photo by Zach Griff / The Points Guy.</em></p><p><br/>3. <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach’</span></a>s <em>Diamond Patchwork</em>, an acrylic and gold leaf painting on canvas, hangs on a pale wall next to a glass security door in the Delta One lounge corridor. The artwork, measuring approximately 4 feet by 4 feet, features a vibrant, geometric pattern made up of interlocking diamond shapes in bold colors like yellow, blue, pink, green, red, and black, with a few sections shimmering with gold leaf. The colorful composition adds energy and brightness to the otherwise neutral-toned space. <em>Photo by Zach Griff / The Points Guy.</em></p><p><br/>4. A closer look at <a href=\"https://www.artlifting.com/collections/alicia-sterling-beach\"><span style=\"text-decoration:underline\">Alicia Sterling Beach</span></a>’s <em>Butterfly of the Mountain</em> in the Delta One lounge area. <em>Photo by Zach Griff / The Points Guy.<br/><br/></em>5. The counter space of the Delta One Lounge at LAX features a sleek and modern check-in area with three marble-clad desks. Behind the desks, a dark wood-paneled wall with pendant lights and a backlit Delta One logo adds to the upscale ambiance. To the right in the background hangs <em>Untitled 2</em> by <a href=\"https://www.artlifting.com/collections/eric-santamaria\"><span style=\"text-decoration:underline\">Eric Santamaria</span></a>—a large abstract artwork measuring approximately 11 feet wide by 5 feet tall. The piece features expressive black splatters on a white background, echoing the refined yet contemporary aesthetic of the lounge.  <em>Photo by Zach Griff / The Points Guy.</em></p>",
+            "text": "<p><strong>Images</strong></p><p>1. Banner: Banner: Original painting. <em>Garden Petal</em>s by <a href=\"https://www.artlifting.com/collections/mj-cooper?_pos=1&_psq=MJ+coop&_ss=e&_v=1.0\" title=\"MJ Cooper\">MJ Cooper</a>. </p><p><br/>2. Green piece: Original:<em> Branch Out </em>2 by <a href=\"https://www.artlifting.com/collections/eliza-redmann\" title=\"https://www.artlifting.com/collections/eliza-redmann\">Eliza Redmann</a>. Made out of concrete. </p><p><br/>3. Another angle of Eliza Redman’s piece. </p><p><br/>4. Prints from left to right: <em>Sacred Botanics</em> by <a href=\"https://www.artlifting.com/collections/quana-madison\"><span style=\"text-decoration:underline\">Quána Madison</span></a>, <em>Celebration</em> by <a href=\"https://www.artlifting.com/collections/kate-snow\"><span style=\"text-decoration:underline\">Kate Snow</span></a>, <em>Wabi Sabi</em> by <a href=\"https://www.artlifting.com/collections/carlos-canon\"><span style=\"text-decoration:underline\">Carlos Canon</span></a>, <em>Filtering Gravity</em> by <a href=\"https://www.artlifting.com/collections/kate-snow\"><span style=\"text-decoration:underline\">Kate Snow</span></a>, <em>Perennials of Joy</em> by <a href=\"https://www.artlifting.com/collections/quana-madison\"><span style=\"text-decoration:underline\">Quána Madison</span></a>. </p>",
             "text_size": 4,
             "text_columns": 1
           }
