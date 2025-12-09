@@ -263,7 +263,7 @@
         "align_text": "text-left",
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "content_width": 2000,
+        "content_width": 850,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -357,7 +357,7 @@
         "align_text": "text-left",
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "content_width": 2000,
+        "content_width": 850,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -492,7 +492,7 @@
         "align_text": "text-left",
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "content_width": 2000,
+        "content_width": 850,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -640,7 +640,7 @@
         "align_text": "text-left",
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "content_width": 2000,
+        "content_width": 850,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -707,7 +707,7 @@
         "align_text": "text-left",
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "content_width": 2000,
+        "content_width": 850,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
