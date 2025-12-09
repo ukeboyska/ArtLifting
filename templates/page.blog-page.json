@@ -447,6 +447,34 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_blog_MxD6yk": {
+      "type": "section-blog",
+      "name": "Blog posts",
+      "settings": {
+        "title": "",
+        "enable_line": false,
+        "text_size": 5,
+        "homepage_blog": "portfolio",
+        "homepage_blog_count": 6,
+        "progress_bar": "mobile",
+        "grid_large": 3,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "wh_ratio": 1.7,
+        "show_author": false,
+        "show_tags": false,
+        "show_date": false,
+        "show_preview": false,
+        "show_link": false,
+        "bg": "palette--light bg--neutral",
+        "color": "text--white",
+        "show_view_all": false,
+        "button_style": "btn--outline",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -457,6 +485,7 @@
     "section_double_C4h6b6",
     "section_richtext_A9TTAJ",
     "section_blog_eKeTWy",
-    "section_slideshow_QEqdtr"
+    "section_slideshow_QEqdtr",
+    "section_blog_MxD6yk"
   ]
 }
