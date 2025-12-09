@@ -1,1 +1,462 @@
-{"sections":{"main":{"type":"page","disabled":true,"settings":{"kicker":"","kicker_size":3,"show_title":true,"title_size":8,"show_content":true,"content_size":5,"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","width":"wrapper","padding_top":36,"padding_bottom":36}},"section_hero_fMW46W":{"type":"section-hero","blocks":{"kicker_TDUQij":{"type":"kicker","disabled":true,"settings":{"kicker":"Introducing","enable_line":false,"text_size":5}},"heading_FNA8jX":{"type":"heading","settings":{"title":"Blog","text_size":10}},"text_J8gBFT":{"type":"text","settings":{"richtext":"<p>Explore stories from artists and collaborators, learn how art transforms spaces and lives, and see how creativity and purpose come together in every project.<\/p>","text_size":6}},"button_VNewJM":{"type":"button","disabled":true,"settings":{"link_text_1":"View products","link_1":"","button_size_1":"btn--long","button_style_1":"btn","button_color_1":"btn--white","link_text_2":"Learn more","link_2":"","button_size_2":"btn--long","button_style_2":"btn-text-thick-line","button_color_2":"btn--white","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_TDUQij","heading_FNA8jX","text_J8gBFT","button_VNewJM"],"name":"Image banner","settings":{"height":"use_screen_two_thirds","overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"preload_image":false,"content_width":2000,"text_align":"align--bottom-left","text_color":"text--white","color_bg":"hero__content--transparent","width":"wrapper--none","padding_top":0,"padding_bottom":0}},"section_richtext_A9TTAJ":{"type":"section-richtext","blocks":{"kicker_ha8NWL":{"type":"kicker","settings":{"kicker":"","enable_line":false,"text_size":4}},"heading_CpwP3P":{"type":"heading","settings":{"heading":"Popular Posts","text_size":8}},"text_f9FrR4":{"type":"text","settings":{"text":"","text_size":4,"text_columns":1}},"button_cUWUYK":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_ha8NWL","heading_CpwP3P","text_f9FrR4","button_cUWUYK"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_blog_eKeTWy":{"type":"section-blog","custom_css":["h2,.section-header__title,.section-title {text-align: left !important;}"],"name":"Blog posts","settings":{"title":"","enable_line":false,"text_size":5,"homepage_blog":"","homepage_blog_count":6,"progress_bar":"mobile","grid_large":3,"grid_medium":2,"grid_mobile":1.2,"wh_ratio":1.7,"show_author":false,"show_tags":true,"show_date":false,"show_preview":true,"show_link":true,"bg":"palette--light bg--neutral","color":"text--white","show_view_all":false,"button_style":"btn--outline","width":"wrapper--full","padding_top":36,"padding_bottom":36}},"section_richtext_LNNe6n":{"type":"section-richtext","blocks":{"kicker_Xd9b3W":{"type":"kicker","settings":{"kicker":"","enable_line":false,"text_size":4}},"heading_FWT9A4":{"type":"heading","settings":{"heading":"Recent Posts","text_size":8}},"text_iWMDRY":{"type":"text","settings":{"text":"","text_size":4,"text_columns":1}},"button_MLHng4":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_Xd9b3W","heading_FWT9A4","text_iWMDRY","button_MLHng4"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_double_7faQtq":{"type":"section-double","blocks":{"text_KQebiL":{"type":"text","settings":{"kicker":"","enable_line":false,"kicker_text_size":4,"title":"Featured Blog Title","text":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p><\/p><h6><br\/>READ MORE ↗  <\/h6>","font_size":4,"text_columns":1,"align_text":"text-left","button_text":"","button_url":"","button_color":"btn--neutral","button_style":"btn-text-thick-line","text_color":"text--neutral","bg_color":""}},"image_QP3bit":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"kicker":"","enable_line":false,"kicker_text_size":5,"title":"","richtext":"","text_align":"align--middle-center","text_color":"text--white","link_text":"","link":"","button_color":"btn--white","button_style":"btn"}}},"block_order":["text_KQebiL","image_QP3bit"],"custom_css":["h2,.section-header__title,.section-title {font-size: 40px !important; line-height: 1.1em !important;}"],"name":"Image with text","settings":{"height":"use_screen_one_half","brick_gutter":0,"borders":false,"bg_color":"","preload_image":false,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_double_C4h6b6":{"type":"section-double","blocks":{"text_3L4KUt":{"type":"text","settings":{"kicker":"","enable_line":false,"kicker_text_size":4,"title":"Featured Blog Title","text":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p><p><\/p><h6><br\/>READ MORE ↗  <\/h6>","font_size":4,"text_columns":1,"align_text":"text-left","button_text":"","button_url":"","button_color":"btn--neutral","button_style":"btn-text-thick-line","text_color":"text--neutral","bg_color":""}},"image_MqGLWm":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"kicker":"","enable_line":false,"kicker_text_size":5,"title":"","richtext":"","text_align":"align--middle-center","text_color":"text--white","link_text":"","link":"","button_color":"btn--white","button_style":"btn"}}},"block_order":["text_3L4KUt","image_MqGLWm"],"custom_css":["h2,.section-header__title,.section-title {font-size: 40px !important; line-height: 1.1em !important;}"],"name":"Image with text","settings":{"height":"use_screen_one_half","brick_gutter":0,"borders":false,"bg_color":"","preload_image":false,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_slideshow_QEqdtr":{"type":"section-slideshow","blocks":{"image_mDKxxA":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"kicker":"","enable_line":false,"kicker_text_size":5,"title":"Title of Featured Blog","richtext":"<p>Description of content<\/p>","text_align":"align--bottom-left","text_color":"text--white","link_text":"READ MORE ↗","link":"","button_color":"btn--white","button_style":"btn"}},"image_wymXWa":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"kicker":"Introducing","enable_line":false,"kicker_text_size":5,"title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}}},"block_order":["image_mDKxxA","image_wymXWa"],"name":"Slideshow","settings":{"autoplay":false,"autoplay_speed":8,"preload_first_image":false,"height":"use_screen_two_thirds","color_bg":"palette--light bg--neutral","width":"wrapper--none","padding_top":0,"padding_bottom":0}}},"order":["main","section_hero_fMW46W","section_richtext_A9TTAJ","section_blog_eKeTWy","section_richtext_LNNe6n","section_double_7faQtq","section_double_C4h6b6","section_slideshow_QEqdtr"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": true,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_hero_fMW46W": {
+      "type": "section-hero",
+      "blocks": {
+        "kicker_TDUQij": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "Introducing",
+            "enable_line": false,
+            "text_size": 5
+          }
+        },
+        "heading_FNA8jX": {
+          "type": "heading",
+          "settings": {
+            "title": "Blog",
+            "text_size": 10
+          }
+        },
+        "text_J8gBFT": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Explore stories from artists and collaborators, learn how art transforms spaces and lives, and see how creativity and purpose come together in every project.</p>",
+            "text_size": 6
+          }
+        },
+        "text_th3qaV": {
+          "type": "text",
+          "settings": {
+            "richtext": "<h6><strong>Image: </strong></h6>",
+            "text_size": 6
+          }
+        },
+        "button_VNewJM": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "View products",
+            "link_1": "",
+            "button_size_1": "btn--long",
+            "button_style_1": "btn",
+            "button_color_1": "btn--white",
+            "link_text_2": "Learn more",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_TDUQij",
+        "heading_FNA8jX",
+        "text_J8gBFT",
+        "text_th3qaV",
+        "button_VNewJM"
+      ],
+      "custom_css": [
+        "h6 {font-size: 12px;}"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image": "shopify://shop_images/Yvette_Rush_Hour_Small_for_Upload_00ffac68-74e6-4458-8949-ee40f10f783a.jpg",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 35,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--bottom-left",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_richtext_A9TTAJ": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_ha8NWL": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_CpwP3P": {
+          "type": "heading",
+          "settings": {
+            "heading": "Popular Posts",
+            "text_size": 8
+          }
+        },
+        "text_f9FrR4": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_cUWUYK": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_ha8NWL",
+        "heading_CpwP3P",
+        "text_f9FrR4",
+        "button_cUWUYK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_blog_eKeTWy": {
+      "type": "section-blog",
+      "custom_css": [
+        "h2,.section-header__title,.section-title {text-align: left !important;}"
+      ],
+      "name": "Blog posts",
+      "settings": {
+        "title": "",
+        "enable_line": false,
+        "text_size": 5,
+        "homepage_blog": "",
+        "homepage_blog_count": 6,
+        "progress_bar": "mobile",
+        "grid_large": 3,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "wh_ratio": 1.7,
+        "show_author": false,
+        "show_tags": true,
+        "show_date": false,
+        "show_preview": true,
+        "show_link": true,
+        "bg": "palette--light bg--neutral",
+        "color": "text--white",
+        "show_view_all": false,
+        "button_style": "btn--outline",
+        "width": "wrapper--full",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_LNNe6n": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_Xd9b3W": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_FWT9A4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Recent Posts",
+            "text_size": 8
+          }
+        },
+        "text_iWMDRY": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_MLHng4": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_Xd9b3W",
+        "heading_FWT9A4",
+        "text_iWMDRY",
+        "button_MLHng4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_7faQtq": {
+      "type": "section-double",
+      "blocks": {
+        "text_KQebiL": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 4,
+            "title": "Featured Blog Title",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p><p></p><h6><br/>READ MORE ↗  </h6>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_QP3bit": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_KQebiL",
+        "image_QP3bit"
+      ],
+      "custom_css": [
+        "h2,.section-header__title,.section-title {font-size: 40px !important; line-height: 1.1em !important;}"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_C4h6b6": {
+      "type": "section-double",
+      "blocks": {
+        "text_3L4KUt": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 4,
+            "title": "Featured Blog Title",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p><p></p><h6><br/>READ MORE ↗  </h6>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_MqGLWm": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_3L4KUt",
+        "image_MqGLWm"
+      ],
+      "custom_css": [
+        "h2,.section-header__title,.section-title {font-size: 40px !important; line-height: 1.1em !important;}"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_slideshow_QEqdtr": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_mDKxxA": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "Title of Featured Blog",
+            "richtext": "<p>Description of content</p>",
+            "text_align": "align--bottom-left",
+            "text_color": "text--white",
+            "link_text": "READ MORE ↗",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "image_wymXWa": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.</p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "image_mDKxxA",
+        "image_wymXWa"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "preload_first_image": false,
+        "height": "use_screen_two_thirds",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_hero_fMW46W",
+    "section_richtext_A9TTAJ",
+    "section_blog_eKeTWy",
+    "section_richtext_LNNe6n",
+    "section_double_7faQtq",
+    "section_double_C4h6b6",
+    "section_slideshow_QEqdtr"
+  ]
+}
