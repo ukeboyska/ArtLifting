@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "How ArtLifting Is Building a More Inclusive Creative Economy",
             "text_size": 8
           }
         },
@@ -86,6 +86,7 @@
         "text_ARz3wr",
         "button_hMEW3K"
       ],
+      "custom_css": [],
       "name": "Rich text",
       "settings": {
         "align_text": "text-left",
@@ -101,8 +102,9 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/Blog-1-Inclusive-Creative-Economu.jpg",
         "height": "use_screen_two_thirds",
-        "overlay_opacity": 15,
+        "overlay_opacity": 0,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
@@ -120,21 +122,22 @@
       "blocks": {
         "kicker_CxfmyE": {
           "type": "kicker",
+          "disabled": true,
           "settings": {
             "kicker": "",
             "enable_line": false,
             "text_size": 4
           }
         },
-        "text_JBiTgy": {
+        "text_TQpVEY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>Art can do more than decorate — it can transform spaces, lives, and economies. Learn how ArtLifting connects artists with disabilities to organizations designing spaces that celebrate inclusion, creativity, and social impact.<br/></p>",
             "text_size": 4,
             "text_columns": 1
           }
         },
-        "spacer_4tDnzQ": {
+        "spacer_YEYWq9": {
           "type": "spacer",
           "settings": {
             "spacer_padding": 20,
@@ -148,10 +151,10 @@
             "text_size": 8
           }
         },
-        "text_NdxcJV": {
+        "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Discover how ArtLifting helps build a more accessible economy through art.</li><li>Learn how professional artists with disabilities achieve financial resilience and recognition.</li><li>See how organizations leverage art to create inclusive spaces that cultivate a culture of belonging. </li><li>Understand how art can drive social impact, community engagement, and authentic connection.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -179,10 +182,10 @@
       },
       "block_order": [
         "kicker_CxfmyE",
-        "text_JBiTgy",
-        "spacer_4tDnzQ",
+        "text_TQpVEY",
+        "spacer_YEYWq9",
         "heading_tYwz3B",
-        "text_NdxcJV",
+        "text_JBiTgy",
         "button_iJDK8e"
       ],
       "custom_css": [
@@ -199,10 +202,10 @@
         "padding_bottom": 36
       }
     },
-    "section_richtext_YV86cE": {
+    "section_richtext_RYYXqK": {
       "type": "section-richtext",
       "blocks": {
-        "kicker_nLcYBR": {
+        "kicker_yrbNap": {
           "type": "kicker",
           "settings": {
             "kicker": "",
@@ -210,22 +213,22 @@
             "text_size": 4
           }
         },
-        "heading_iq3qWc": {
+        "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "The Story Behind ArtLifting’s Mission",
             "text_size": 8
           }
         },
-        "text_P4ijRY": {
+        "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Before co-founding ArtLifting, CEO <a href=\"https://www.linkedin.com/in/liz-powers-8a575432/\"><span style=\"text-decoration:underline\">Liz Powers</span></a> worked as a social worker in Boston, supporting individuals in housing navigation centers and community art programs. She saw talented artists creating professional-quality work, yet their pieces remained unseen and unsold.</p><p><br/>Many of these artists faced barriers to traditional employment due to disabilities or health conditions, despite their artistic excellence. As an artist herself, Liz knew how powerful it feels to have your work valued and how often the art world overlooks those whose paths differ from the norm.</p><p><br/>In 2013, Liz and her brother, Spencer, launched ArtLifting with a clear mission: to connect underrepresented artists with customers eager to celebrate their work.By bridging that gap, ArtLifting helps build an accessible and inclusive economy where people are defined by their talent, not their circumstances.</p>",
             "text_size": 3,
             "text_columns": 1
           }
         },
-        "button_FtDYky": {
+        "button_rp8gie": {
           "type": "button",
           "settings": {
             "link_text_1": "",
@@ -247,10 +250,104 @@
         }
       },
       "block_order": [
-        "kicker_nLcYBR",
-        "heading_iq3qWc",
-        "text_P4ijRY",
-        "button_FtDYky"
+        "kicker_yrbNap",
+        "heading_Jpd33X",
+        "text_PPTNm9",
+        "button_rp8gie"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_zKEf7F": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_AMmGby": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_Gyx4Na": {
+          "type": "heading",
+          "settings": {
+            "heading": "Creating Financial Resilience Through Art",
+            "text_size": 8
+          }
+        },
+        "text_pqUkm3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Behind every sale is an opportunity for independence.</p><p><br/>ArtLifting has generated tens of millions in art sales, directly supporting <a href=\"https://www.artlifting.com/pages/artists\"><span style=\"text-decoration:underline\">professional artists with disabilities</span></a> across North America. Our model directs 55% of profits to artists. </p><p><br/>Additionally, 1% of profits are contributed to the ArtLifting Community Impact Fund, which provides grants, art supplies, and professional development for ArtLifting artists and community partners. As of 2026,  we’ve distributed more than $450,000 through our Community Impact Fund to expand access and opportunity.</p><p><br/>These earnings aren’t just income — they represent stability, dignity, and hope. Each sale is more than a transaction; it’s a tangible investment in human potential.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_UmnbmA": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_wLfA3b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“It gives me hope again that we don’t have to constantly stress every day where I will be able to get even food or medicine if we were sick.\"</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "text_TDeWX6": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>- </em><a href=\"https://www.artlifting.com/collections/vanessa-starr?_pos=1&_psq=vanessa&_ss=e&_v=1.0\" title=\"Vanessa Starr\"><em>Vanessa Starr</em></a><em>, ArtLifting artist</em></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_yAKNi6": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_AMmGby",
+        "heading_Gyx4Na",
+        "text_pqUkm3",
+        "spacer_UmnbmA",
+        "text_wLfA3b",
+        "text_TDeWX6",
+        "button_yAKNi6"
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
@@ -308,10 +405,10 @@
         "padding_bottom": 36
       }
     },
-    "section_richtext_RYYXqK": {
+    "section_richtext_qAg9JJ": {
       "type": "section-richtext",
       "blocks": {
-        "kicker_yrbNap": {
+        "kicker_tbjXG3": {
           "type": "kicker",
           "settings": {
             "kicker": "",
@@ -319,22 +416,45 @@
             "text_size": 4
           }
         },
-        "heading_Jpd33X": {
+        "heading_B6LyHm": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Empowering Confidence and Creative Growth",
             "text_size": 8
           }
         },
-        "text_PPTNm9": {
+        "text_nzTtfQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Recognition fuels creative and personal growth.</p><p><br/>The impact of an art sale goes beyond finances. ArtLifting artists report that selling their artwork positively impacts all areas of their lives. Over 95% of artists report increased confidence, and 97% feel valued knowing their artwork is displayed in offices and spaces across the country.</p><p><br/>This confidence permeates every aspects of their lives. Many artists report trying different art styles, setting new goals, and pushing their art practice to new frontiers. When artists see their work celebrated in meaningful ways, it reinforces what we all need: to feel seen, valued, and capable.</p>",
             "text_size": 3,
             "text_columns": 1
           }
         },
-        "button_rp8gie": {
+        "spacer_j8qCfj": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_7xjNxc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“This sale helps fuel my spirit as I discover how much more I’m capable of. It truly is life-changing.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "text_7nk6DV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>- </em><a href=\"https://www.artlifting.com/collections/lumi?_pos=1&_psq=Lumi&_ss=e&_v=1.0\" title=\"Lumi Forbes\"><em>Lumi Forbes</em></a><em>, ArtLifting artist</em></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_mgJRWK": {
           "type": "button",
           "settings": {
             "link_text_1": "",
@@ -356,10 +476,13 @@
         }
       },
       "block_order": [
-        "kicker_yrbNap",
-        "heading_Jpd33X",
-        "text_PPTNm9",
-        "button_rp8gie"
+        "kicker_tbjXG3",
+        "heading_B6LyHm",
+        "text_nzTtfQ",
+        "spacer_j8qCfj",
+        "text_7xjNxc",
+        "text_7nk6DV",
+        "button_mgJRWK"
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
@@ -401,14 +524,75 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Redefining Inclusion in Corporate Spaces",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Corporate art is a design strategy for human connection.</p><p><br/>When organizations partner with ArtLifting, they intentionally embed inclusion, belonging, and creativity directly into the spaces where people work, collaborate, and thrive. Each piece becomes a living expression of shared values — proof that design can drive empathy as effectively as it drives performance.</p><p><br/>Today, <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">more than 500 clients</span></a> work with ArtLifting to uplift their spaces and communities. Our Net Promoter Score of 9.8/10 reflects deep satisfaction and shared values.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_FmdECP": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_MaB4y7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“ArtLifting has been a strong partner in enhancing the day-to-day experience within our buildings through art installations. The stunning artwork and inspiring artist stories create meaningful connections for BGO teams and tenants.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "text_7HrJr8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>- Rob Naso, Managing Partner and Head of U.S. Asset Management at BGO</em></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_8ghBpf": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_wnihz4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“When people read the artist bios, it opens up conversations about difference, mental health, and disabilities in a whole new way.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "text_3kTqmC": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>- Bryan Parker, Director of Workplace Strategy and Design, PwC</em></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_RWYDcj": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_8DPpfY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>By acquiring or leasing artwork from ArtLifting artists, partners are designing social impact into their spaces, sparking meaningful engagement, and redefining what inclusion looks like in the workplace and beyond.</p><p><br/><a href=\"https://cdn.shopify.com/s/files/1/0950/0728/files/ArtLiftingImpactReport_2024_web.pdf?v=1737408843\"><span style=\"text-decoration:underline\">Read our annual impact report to learn</span></a> how ArtLifting clients change artists’ lives → </p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -438,7 +622,82 @@
         "kicker_8yGWaX",
         "heading_G7VGk7",
         "text_FdhhiV",
+        "spacer_FmdECP",
+        "text_MaB4y7",
+        "text_7HrJr8",
+        "spacer_8ghBpf",
+        "text_wnihz4",
+        "text_3kTqmC",
+        "spacer_RWYDcj",
+        "text_8DPpfY",
         "button_HzYKT4"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_63abLW": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_DNAdzn": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_Rt6F9q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Art as a Catalyst for Change",
+            "text_size": 8
+          }
+        },
+        "text_wa8HBy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At ArtLifting, we are not just selling art — we are building a more inclusive creative economy. Each partnership expands opportunity, reshapes narratives, and proves that when creativity and opportunity meet, everyone thrives.</p><p><br/>Ready to explore how your organization can spark connection and impact through transformative art? <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">Explore our portfolio</span></a> or <a href=\"https://www.artlifting.com/pages/contact-us\"><span style=\"text-decoration:underline\">contact us</span></a> to discover how your spaces can uplift artists and communities through inclusive art.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_F886az": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_DNAdzn",
+        "heading_Rt6F9q",
+        "text_wa8HBy",
+        "button_F886az"
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
@@ -507,6 +766,7 @@
         "text_U4NcQm",
         "button_XeJfn4"
       ],
+      "custom_css": [],
       "name": "Rich text",
       "settings": {
         "align_text": "text-left",
@@ -582,11 +842,13 @@
     "section_richtext_iCETXJ",
     "section_hero_mYcreP",
     "section_richtext_eQqVdz",
-    "section_richtext_YV86cE",
-    "section_gallery_Fxjb8z",
     "section_richtext_RYYXqK",
+    "section_richtext_zKEf7F",
+    "section_gallery_Fxjb8z",
+    "section_richtext_qAg9JJ",
     "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_richtext_63abLW",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
