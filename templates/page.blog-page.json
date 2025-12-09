@@ -94,9 +94,9 @@
       ],
       "name": "Image banner",
       "settings": {
-        "image": "shopify://shop_images/Yvette_Rush_Hour_Small_for_Upload_00ffac68-74e6-4458-8949-ee40f10f783a.jpg",
+        "image": "shopify://shop_images/6-Scott_and_Karen_up_close_b11970ec-199d-4b02-ba89-3b090de16163.jpg",
         "height": "use_screen_two_thirds",
-        "overlay_opacity": 35,
+        "overlay_opacity": 25,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
