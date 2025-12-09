@@ -197,7 +197,7 @@
         "show_link": false,
         "bg": "palette--light bg--neutral",
         "color": "text--white",
-        "show_view_all": false,
+        "show_view_all": true,
         "button_style": "btn--outline",
         "width": "wrapper--full",
         "padding_top": 10,
