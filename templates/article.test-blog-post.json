@@ -1,1 +1,593 @@
-{"sections":{"main":{"type":"article","disabled":true,"settings":{"blog_show_meta":false,"tags":true,"color_bg":"palette--light bg--neutral","social":false,"share_label":"","image_height":"use_screen_one_half","bg_position":"left-center","sidebar_tags":false,"recent":false,"wh_ratio":1.7,"show_author":false,"show_tags":false,"show_date":false,"show_preview":true,"show_link":false,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_richtext_iCETXJ":{"type":"section-richtext","blocks":{"kicker_RyMiF6":{"type":"kicker","settings":{"kicker":"Blog","enable_line":false,"text_size":4}},"heading_YydAmw":{"type":"heading","settings":{"heading":"Title of Blog","text_size":8}},"text_ARz3wr":{"type":"text","settings":{"text":"","text_size":4,"text_columns":1}},"button_hMEW3K":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_RyMiF6","heading_YydAmw","text_ARz3wr","button_hMEW3K"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":16}},"section_hero_mYcreP":{"type":"section-hero","name":"Image banner","settings":{"height":"use_screen_two_thirds","overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"preload_image":false,"content_width":2000,"text_align":"align--middle-center","text_color":"text--white","color_bg":"hero__content--transparent","width":"wrapper--full","padding_top":0,"padding_bottom":0}},"section_richtext_eQqVdz":{"type":"section-richtext","blocks":{"kicker_CxfmyE":{"type":"kicker","settings":{"kicker":"","enable_line":false,"text_size":4}},"heading_tYwz3B":{"type":"heading","settings":{"heading":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ","text_size":8}},"text_JBiTgy":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br\/><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br\/><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>","text_size":4,"text_columns":1}},"button_iJDK8e":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_CxfmyE","heading_tYwz3B","text_JBiTgy","button_iJDK8e"],"custom_css":[".heading-size-8 {font-size: 28px;}"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_gallery_Fxjb8z":{"type":"section-gallery","blocks":{"image_pqd4XE":{"type":"image","settings":{"link":""}},"image_JhcghB":{"type":"image","settings":{"link":""}},"image_jMHfHK":{"type":"image","settings":{"link":""}}},"block_order":["image_pqd4XE","image_JhcghB","image_jMHfHK"],"name":"Gallery","settings":{"scale_image":false,"wh_ratio":1,"bg":"palette--light bg--neutral","add_gutters":true,"progress_bar":"mobile","grid_large":2,"grid_medium":2,"grid_mobile":1.2,"width":"wrapper--narrow","padding_top":36,"padding_bottom":36}},"section_richtext_RYYXqK":{"type":"section-richtext","blocks":{"kicker_yrbNap":{"type":"kicker","settings":{"kicker":"","enable_line":false,"text_size":4}},"heading_Jpd33X":{"type":"heading","settings":{"heading":"Section Title","text_size":8}},"text_PPTNm9":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br\/><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br\/><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>","text_size":4,"text_columns":1}},"button_rp8gie":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_yrbNap","heading_Jpd33X","text_PPTNm9","button_rp8gie"],"custom_css":[".heading-size-8 {font-size: 28px;}"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_image_TtdgBV":{"type":"section-image","name":"Image","settings":{"max_width":80,"x_align":"center","color_bg":"palette--light bg--neutral","width":"wrapper","padding_top":36,"padding_bottom":36}},"section_richtext_nxqa6C":{"type":"section-richtext","blocks":{"kicker_8yGWaX":{"type":"kicker","settings":{"kicker":"","enable_line":false,"text_size":4}},"heading_G7VGk7":{"type":"heading","settings":{"heading":"Section Title","text_size":8}},"text_FdhhiV":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br\/><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br\/><br\/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>","text_size":4,"text_columns":1}},"button_HzYKT4":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_8yGWaX","heading_G7VGk7","text_FdhhiV","button_HzYKT4"],"custom_css":[".heading-size-8 {font-size: 28px;}"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":36}},"section_richtext_t3HQCF":{"type":"section-richtext","blocks":{"kicker_gN8m9c":{"type":"kicker","settings":{"kicker":"","enable_line":false,"text_size":4}},"heading_f9e4GE":{"type":"heading","settings":{"heading":"You may be interested in...","text_size":8}},"text_U4NcQm":{"type":"text","settings":{"text":"","text_size":4,"text_columns":1}},"button_XeJfn4":{"type":"button","settings":{"link_text_1":"","link_1":"shopify:\/\/collections\/all","button_size_1":"btn--medium","button_style_1":"btn-text-thick-line","button_color_1":"btn--neutral","link_text_2":"","link_2":"","button_size_2":"btn--medium","button_style_2":"btn-text-thick-line","button_color_2":"btn--neutral","link_text_3":"","link_3":"","button_size_3":"btn--long","button_style_3":"btn-text-thick-line","button_color_3":"btn--white"}}},"block_order":["kicker_gN8m9c","heading_f9e4GE","text_U4NcQm","button_XeJfn4"],"name":"Rich text","settings":{"align_text":"text-left","text_color":"text--neutral","bg":"palette--light bg--neutral","content_width":2000,"width":"wrapper","padding_top":36,"padding_bottom":14}},"section_slideshow_jULmaC":{"type":"section-slideshow","blocks":{"image_M6UxGC":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"kicker":"","enable_line":false,"kicker_text_size":5,"title":"Title of Featured Blog Post","richtext":"<p>Description of content<\/p>","text_align":"align--bottom-left","text_color":"text--white","link_text":"READ MORE ↗","link":"","button_color":"btn--white","button_style":"btn"}},"image_GGMiBJ":{"type":"image","settings":{"overlay_opacity":15,"overlay_color":"#000","enable_overlay_text":false,"kicker":"Introducing","enable_line":false,"kicker_text_size":5,"title":"Image slideshow","richtext":"<p>Tell your brand's story through images.<\/p>","text_align":"align--middle-center","text_color":"text--white","link_text":"View products","link":"","button_color":"btn--white","button_style":"btn"}}},"block_order":["image_M6UxGC","image_GGMiBJ"],"name":"Slideshow","settings":{"autoplay":false,"autoplay_speed":8,"preload_first_image":false,"height":"use_screen_two_thirds","color_bg":"palette--light bg--neutral","width":"wrapper--none","padding_top":0,"padding_bottom":0}}},"order":["main","section_richtext_iCETXJ","section_hero_mYcreP","section_richtext_eQqVdz","section_gallery_Fxjb8z","section_richtext_RYYXqK","section_image_TtdgBV","section_richtext_nxqa6C","section_richtext_t3HQCF","section_slideshow_jULmaC"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "article",
+      "disabled": true,
+      "settings": {
+        "blog_show_meta": false,
+        "tags": true,
+        "color_bg": "palette--light bg--neutral",
+        "social": false,
+        "share_label": "",
+        "image_height": "use_screen_one_half",
+        "bg_position": "left-center",
+        "sidebar_tags": false,
+        "recent": false,
+        "wh_ratio": 1.7,
+        "show_author": false,
+        "show_tags": false,
+        "show_date": false,
+        "show_preview": true,
+        "show_link": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_iCETXJ": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_RyMiF6": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Blog",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_YydAmw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Title of Blog",
+            "text_size": 8
+          }
+        },
+        "text_ARz3wr": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_hMEW3K": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_RyMiF6",
+        "heading_YydAmw",
+        "text_ARz3wr",
+        "button_hMEW3K"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "section_hero_mYcreP": {
+      "type": "section-hero",
+      "name": "Image banner",
+      "settings": {
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_richtext_eQqVdz": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_CxfmyE": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "text_JBiTgy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "spacer_4tDnzQ": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "heading_tYwz3B": {
+          "type": "heading",
+          "settings": {
+            "heading": "Highlights",
+            "text_size": 8
+          }
+        },
+        "text_NdxcJV": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_iJDK8e": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_CxfmyE",
+        "text_JBiTgy",
+        "spacer_4tDnzQ",
+        "heading_tYwz3B",
+        "text_NdxcJV",
+        "button_iJDK8e"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_YV86cE": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_nLcYBR": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_iq3qWc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Section Title",
+            "text_size": 8
+          }
+        },
+        "text_P4ijRY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_FtDYky": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_nLcYBR",
+        "heading_iq3qWc",
+        "text_P4ijRY",
+        "button_FtDYky"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_Fxjb8z": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_pqd4XE": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_JhcghB": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_jMHfHK": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pqd4XE",
+        "image_JhcghB",
+        "image_jMHfHK"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_RYYXqK": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_yrbNap": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_Jpd33X": {
+          "type": "heading",
+          "settings": {
+            "heading": "Section Title",
+            "text_size": 8
+          }
+        },
+        "text_PPTNm9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_rp8gie": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_yrbNap",
+        "heading_Jpd33X",
+        "text_PPTNm9",
+        "button_rp8gie"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_image_TtdgBV": {
+      "type": "section-image",
+      "name": "Image",
+      "settings": {
+        "max_width": 80,
+        "x_align": "center",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_nxqa6C": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_8yGWaX": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_G7VGk7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Section Title",
+            "text_size": 8
+          }
+        },
+        "text_FdhhiV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_HzYKT4": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_8yGWaX",
+        "heading_G7VGk7",
+        "text_FdhhiV",
+        "button_HzYKT4"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_t3HQCF": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_gN8m9c": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_f9e4GE": {
+          "type": "heading",
+          "settings": {
+            "heading": "You may be interested in...",
+            "text_size": 8
+          }
+        },
+        "text_U4NcQm": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_XeJfn4": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_gN8m9c",
+        "heading_f9e4GE",
+        "text_U4NcQm",
+        "button_XeJfn4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 14
+      }
+    },
+    "section_slideshow_jULmaC": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_M6UxGC": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "Title of Featured Blog Post",
+            "richtext": "<p>Description of content</p>",
+            "text_align": "align--bottom-left",
+            "text_color": "text--white",
+            "link_text": "READ MORE ↗",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "image_GGMiBJ": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "enable_line": false,
+            "kicker_text_size": 5,
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.</p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "image_M6UxGC",
+        "image_GGMiBJ"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "preload_first_image": false,
+        "height": "use_screen_two_thirds",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_richtext_iCETXJ",
+    "section_hero_mYcreP",
+    "section_richtext_eQqVdz",
+    "section_richtext_YV86cE",
+    "section_gallery_Fxjb8z",
+    "section_richtext_RYYXqK",
+    "section_image_TtdgBV",
+    "section_richtext_nxqa6C",
+    "section_richtext_t3HQCF",
+    "section_slideshow_jULmaC"
+  ]
+}
