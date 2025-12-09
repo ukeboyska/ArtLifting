@@ -448,6 +448,70 @@
         "padding_bottom": 0
       }
     },
+    "section_richtext_BBgNQU": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_8H4atq": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_kMnih6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore our Portfolio",
+            "text_size": 8
+          }
+        },
+        "text_gyXJRd": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_YbC9JR": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_8H4atq",
+        "heading_kMnih6",
+        "text_gyXJRd",
+        "button_YbC9JR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 10
+      }
+    },
     "section_blog_MxD6yk": {
       "type": "section-blog",
       "name": "Blog posts",
@@ -486,6 +550,7 @@
     "section_richtext_A9TTAJ",
     "section_blog_eKeTWy",
     "section_slideshow_QEqdtr",
+    "section_richtext_BBgNQU",
     "section_blog_MxD6yk"
   ]
 }
