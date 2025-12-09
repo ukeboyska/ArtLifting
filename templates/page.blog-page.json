@@ -194,7 +194,7 @@
         "show_tags": false,
         "show_date": false,
         "show_preview": false,
-        "show_link": true,
+        "show_link": false,
         "bg": "palette--light bg--neutral",
         "color": "text--white",
         "show_view_all": false,
