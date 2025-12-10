@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "Designing Neuroinclusive Workplaces with HOK’s Kay Sargent & ArtLifting’s Liz Powers",
             "text_size": 8
           }
         },
@@ -101,6 +101,7 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/Art_of_Neuroinclusive_Design_Kay_Sargent-13_42a83dec-13d3-455e-80c0-0dd9fca4aef6.png",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>One in five employees experiences the workplace differently than their neurotypical peers. Discover how workplace art and inclusive design create environments where everyone can thrive.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Workplace leaders, designers, real estate teams, and HR professionals will learn why neuroinclusion is the next frontier in workplace design.</li><li>Discover how workplace art and sensory variety can improve focus, creativity, and engagement.</li><li>Explore low-cost strategies to support neurodivergent talent and boost retention.</li><li>Understand how combining art and design builds workplaces that empower everyone.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,15 +214,45 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "The Distinction That Shapes Neuroinclusive Design",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>\"We are all neurodiverse. We all process and think differently, but we are not all neurodivergent.\"</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "spacer_hjJMNX": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_NUcpma": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That's how <a href=\"https://www.linkedin.com/in/kay-sargent-53b2431/\"><span style=\"text-decoration:underline\">Kay Sargent</span></a>, Director of Thought Leadership at HOK and author of <em>Designing Neuroinclusive Workspaces</em>, opened <a href=\"https://mailchi.mp/artlifting.com/n82ct217e8\"><span style=\"text-decoration:underline\">a recent conversation</span></a> with ArtLifting co-founder and CEO <a href=\"https://www.linkedin.com/in/liz-powers-8a575432/\"><span style=\"text-decoration:underline\">Liz Powers</span></a>. </p><p><br/>While every brain is unique, about one in five people are <em>neurodivergent</em>, meaning they think, process, or experience the world in ways that differ significantly from neurotypical patterns. Examples of neurodivergence include people with ADHD or ADD, Autism, OCD, dyslexia and numerlexia, chronic conditions like migraines, sensory sensitivities, and other learning disabilities.</p><p><br/>Here's the challenge: While we've made progress adapting buildings for people with physical disabilities (roughly 18% of the population), we've done relatively little to address the needs of the 20% who experience neurodivergence. Fewer than 5% of neurodivergent individuals even realize they fall into this category.</p><p>That means workplaces are designed for a single type of person, or <em>neurotype</em>, leaving millions of talented individuals struggling in environments that weren't designed for them. </p><p>As Kay explains,</p>",
             "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_xhkKyx": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_AXyGHp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Impairments plus a misaligned environment equals disadvantage. We can't change someone's impairment, but we absolutely can change societal attitudes and their environment.\"</p>",
+            "text_size": 4,
             "text_columns": 1
           }
         },
@@ -250,6 +281,10 @@
         "kicker_nLcYBR",
         "heading_iq3qWc",
         "text_P4ijRY",
+        "spacer_hjJMNX",
+        "text_NUcpma",
+        "spacer_xhkKyx",
+        "text_AXyGHp",
         "button_FtDYky"
       ],
       "custom_css": [
@@ -322,14 +357,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Why Neuroinclusive Design Matters Now",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Today’s leaders are navigating record levels of burnout, sensory overload, and disconnection. Open offices with harsh lighting, constant noise, and limited personal control over the environment can make focus and well-being elusive — especially for neurodivergent employees.</p><p><br/>If your workplace design has not evolved in the last decade, it is likely missing key insights about how people actually work. And the cost is measurable.</p><p><br/></p><ul><li>85% of autistic individuals in the U.S. are unemployed, and 69% want to work.</li></ul><p></p><ul><li><a href=\"https://newsroom.accenture.com/news/2018/companies-leading-in-disability-inclusion-have-outperformed-peers-accenture-research-finds\"><span style=\"text-decoration:underline\">A study by Accenture</span></a> found that companies leading in disability inclusion outperform peers with 28% higher revenue, 30% better profit margins, and double the net income.</li></ul><p></p><ul><li>56% of neuroinclusive accommodations cost nothing to implement.</li></ul><p><br/>When you design for neurodivergence, you're not accommodating a small minority. You're creating environments where everyone can thrive.</p><p><br/>Neuroinclusive design is not a compliance checklist; it is a performance strategy. Workplaces that offer sensory variety, flexibility, and autonomy foster focus, creativity, and connection. The result is higher engagement, stronger culture, and improved retention.</p><p><br/>Neuroinclusive design is better for all people and better for the bottom line.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -401,14 +436,14 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "What Inclusive Workplace Design Looks Like in Practice",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>So, what does it take to create a neuroinclusive workplace? Kay outlines practical, actionable strategies rooted in three core principles:<br/><br/>1. Options and variety</p><p>2. Choice</p><p>3. Control</p><p><br/>Stop relying on one-size-fits-all strategies. Instead, build flexibility and autonomy into every environment.</p><p><br/><a href=\"https://mailchi.mp/artlifting.com/n82ct217e8\"><span style=\"text-decoration:underline\">In their discussion</span></a>, Kay and Liz explore practical design strategies from rethinking sensory elements like lighting and sound to adding natural materials and biophilic design elements, adaptable spaces, and opportunities for employees to choose where they work.</p><p><br/>When done well, these changes transform workplaces from sources of stress into environments where focus, creativity, and well-being flourish.</p><p><br/>The question is not, \"Can we afford to do this?\"</p><p><br/>The question is, \"What is it costing us NOT to?\"</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -439,6 +474,224 @@
         "heading_G7VGk7",
         "text_FdhhiV",
         "button_HzYKT4"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_FMP8Mh": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_y8Y6gJ": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_CqFG6j": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Role of Workplace Art in Inclusive Design",
+            "text_size": 8
+          }
+        },
+        "text_bEcnXT": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https://www.artlifting.com/pages/services\"><span style=\"text-decoration:underline\">ArtLifting’s corporate art services</span></a> powerfully intersect with neuroinclusive design.</p><p><br/>Art is more than decoration; it is a strategic amenity and design opportunity with purpose. Thoughtfully integrated workplace art can influence how people feel, navigate, and connect.</p><p><br/>Here's how ArtLifting supports neuroinclusive environments:</p><p><br/></p><ul><li><strong>Art provides visual anchors.</strong> For neurodivergent employees, navigating complex office layouts can be disorienting. Corporate art offers recognizable landmarks that help with wayfinding.</li></ul><p></p><ul><li><strong>Art influences mood and well-being.</strong> Meaningful art can calm, energize, or inspire, supporting emotional regulation throughout the day.</li></ul><p></p><ul><li><strong>Art tells stories that spark connection.</strong> When employees see original artwork by <a href=\"https://www.artlifting.com/pages/artists\"><span style=\"text-decoration:underline\">ArtLifting artists</span></a> with disabilities and read their stories, it opens up conversations about difference, accessibility, mental health, and resilience.</li></ul><p></p><ul><li><strong>Art offers choice and personalization.</strong> Through ArtLifting’s rotation programs, organizations can change art regularly, keeping spaces dynamic and giving employees a sense of variety and control.</li></ul><p><br/>When you combine neuroinclusive design with transformative art that reflects diverse experiences, you’re not just making workplaces more accessible, you’re making them more human.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_49ENbk": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_y8Y6gJ",
+        "heading_CqFG6j",
+        "text_bEcnXT",
+        "button_49ENbk"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_W4APGt": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_niUtmF": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_zKtqnH": {
+          "type": "heading",
+          "settings": {
+            "heading": "What Workplace Leaders Can Do to Create Inclusive, Art-Driven Work Environments",
+            "text_size": 8
+          }
+        },
+        "text_XB8V8D": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you're a workplace strategist, HR leader, real estate director, facilities manager, or inclusion advocate, the opportunity here is clear: neuroinclusive design is not a niche concern. It impacts everyone.</p><p><br/>Where can you get started on implementing neuroinclusive design in your space? Start with one thing: </p><p><br/></p><ul><li>Introduce quiet rooms</li><li>Incorporate adjustable lighting</li><li>Curate artwork that tells meaningful stories and sparks conversation</li></ul><p><br/>The key is to move away from the assumption that what works for one person works for all. </p><p><br/>Design for flexibility, autonomy, and choice, and recognize that small changes — many of which cost nothing — can have a profound impact on retention, productivity, and employee experience.</p><p><br/>As Kay reminded us, </p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_TwqzNK": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_6XdwXX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“We can't change someone's impairment. But we can absolutely change their environment.” </p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_EVeBpQ": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_niUtmF",
+        "heading_zKtqnH",
+        "text_XB8V8D",
+        "spacer_TwqzNK",
+        "text_6XdwXX",
+        "button_EVeBpQ"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_fGpYcX": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_MAAbWF": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_C74ztx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Learn More About Neuroinclusive Design and Art in the Workplace",
+            "text_size": 8
+          }
+        },
+        "text_3xeTmL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Kay Sargent and Liz Powers dive deeper into neuroinclusive design strategies, environmental psychology, and the role of art in creating thriving workplaces <a href=\"https://mailchi.mp/artlifting.com/n82ct217e8\"><span style=\"text-decoration:underline\">in their full webinar.</span></a></p><p><br/><a href=\"https://mailchi.mp/artlifting.com/n82ct217e8\"><span style=\"text-decoration:underline\">Watch the recorded webinar here</span></a> to explore practical design strategies that improve retention, productivity, and well-being.</p><p><br/>Because the future of work isn't about accommodating difference. It is about designing for it from the start.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_mqm9Kc": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_MAAbWF",
+        "heading_C74ztx",
+        "text_3xeTmL",
+        "button_mqm9Kc"
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
@@ -587,6 +840,9 @@
     "section_richtext_RYYXqK",
     "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_richtext_FMP8Mh",
+    "section_richtext_W4APGt",
+    "section_richtext_fGpYcX",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
