@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "How ArtLifting Transforms Spaces and Lives",
             "text_size": 8
           }
         },
@@ -101,8 +101,9 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/transforms-spaces-and-lives.jpg",
         "height": "use_screen_two_thirds",
-        "overlay_opacity": 15,
+        "overlay_opacity": 0,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>Corporate artwork has become a powerful tool for organizations that want to bring their values to life through human-centered design. ArtLifting connects artists’ stories with the workplace, helping companies foster engagement, belonging, and lasting impact through thoughtfully curated workplace art.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Business leaders and designers will learn how intentional corporate artwork transforms physical environments into meaningful cultural experiences.</li><li>Learn how ArtLifting’s model creates visible workplace impact while expanding opportunity for professional artists.</li><li>Explore how artist stories deepen connection and authenticity in the built environment.</li><li>Discover why ArtLifting’s approach is uniquely designed to align art, values, and human impact</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,14 +214,14 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "How Corporate Artwork Is Shaping Modern Workplace Design",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Organizations across industries are rethinking how physical environments influence culture and connection. Employees want spaces that support productivity while also helping them feel recognized and valued. </p><p><br/>Forward-thinking companies are asking:<br/></p><ul><li>Does this environment reflect our values?</li><li>Do people see themselves and their stories represented here?</li><li>Can social impact be experienced, not just stated?</li></ul><p><br/>Corporate artwork helps transform culture from an abstract idea into a daily experience. When companies select workplace art with intention, employees feel recognized, and the environment becomes a reflection of the people and values within it.</p><p><br/>This intentionality strengthens engagement by transforming the workplace into a space that communicates purpose, not just function.</p><p><br/><a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">See how ArtLifting clients are designing with purpose →</span></a></p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -266,48 +267,6 @@
         "padding_bottom": 36
       }
     },
-    "section_gallery_Fxjb8z": {
-      "type": "section-gallery",
-      "blocks": {
-        "image_pqd4XE": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_JhcghB": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_jMHfHK": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_pqd4XE",
-        "image_JhcghB",
-        "image_jMHfHK"
-      ],
-      "name": "Gallery",
-      "settings": {
-        "scale_image": false,
-        "wh_ratio": 1,
-        "bg": "palette--light bg--neutral",
-        "add_gutters": true,
-        "progress_bar": "mobile",
-        "grid_large": 2,
-        "grid_medium": 2,
-        "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_RYYXqK": {
       "type": "section-richtext",
       "blocks": {
@@ -322,14 +281,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "How Workplace Art Brings Human Connection Into the Built Environment",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Step into a typical workplace, and you may find clean, well-designed spaces, but not always a sense of human connection.</p><p><br/>Now step into a space featuring ArtLifting artwork.</p><p><br/>The energy shifts. A vibrant canvas captures attention. A plaque beside it introduces the artist’s creative voice and lived experience with disability. The environment feels more grounded and human. People see more than a decorative choice and connect to the artist behind the work. </p><p><br/>Thoughtful curation turns blank walls into touch points for:</p><ul><li>Storytelling</li><li>Culture and values</li><li>Recognition, belonging, inclusion, and joy</li></ul><p><br/>ArtLifting helps organizations procure and lease meaningful artwork that reflects their mission and the people who bring that mission to life. Art becomes a living part of the environment rather than a decorative layer.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -375,18 +334,6 @@
         "padding_bottom": 36
       }
     },
-    "section_image_TtdgBV": {
-      "type": "section-image",
-      "name": "Image",
-      "settings": {
-        "max_width": 80,
-        "x_align": "center",
-        "color_bg": "palette--light bg--neutral",
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_nxqa6C": {
       "type": "section-richtext",
       "blocks": {
@@ -401,14 +348,44 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "The Artists Behind the Work",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>ArtLifting represents more than <a href=\"https://www.artlifting.com/pages/artists\"><span style=\"text-decoration:underline\">200 professional artists</span></a> with disabilities across North America — painters, sculptors, photographers, designers, and digital creators — each with a distinct style and story to share. </p><p><br/>For these artists, sales are more than transactions. They are:</p><ul><li>Pathways to financial stability</li><li>Gateways to new professional opportunities</li><li>Channels for recognition in industries where access has been limited</li></ul><p><br/>A few key outcomes highlight this impact:</p><ul><li>95% of artists report increased confidence from sales.</li><li>94% of artists say ArtLifting helps them overcome barriers to selling their work.</li><li>79% of artists say art income reduces anxiety.</li></ul><p><br/>Artist <a href=\"https://www.artlifting.com/collections/lumi?_pos=1&_psq=Lumi&_ss=e&_v=1.0\"><span style=\"text-decoration:underline\">Lumi</span></a> shared:</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_7YLQwh": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_xfTVe4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“I have recently begun to break through more invisible and perceived barriers placed upon myself surrounding my disabilities. This sale helps to further fuel my spirit as I discover how much more I truly am capable of. Thank you so much for your support – it truly is life-changing.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "spacer_mpUfVi": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_F4A4VU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every workplace placement creates a dual impact: it shapes the experience of the space and strengthens the career of the artist whose work is featured.</p><p><br/><a href=\"https://cdn.shopify.com/s/files/1/0950/0728/files/ArtLiftingImpactReport_2024_web.pdf?v=1737408843\"><span style=\"text-decoration:underline\">Read our annual impact report to learn</span></a> how ArtLifting clients change artists’ lives → </p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -438,7 +415,432 @@
         "kicker_8yGWaX",
         "heading_G7VGk7",
         "text_FdhhiV",
+        "spacer_7YLQwh",
+        "text_xfTVe4",
+        "spacer_mpUfVi",
+        "text_F4A4VU",
         "button_HzYKT4"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_L3Ur6j": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_wGHCid": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_VCH8eH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Impact and Curation at Scale",
+            "text_size": 8
+          }
+        },
+        "text_7iqwJy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>State Street: Designing Belonging Through Rotations</strong></p><p><strong><br/></strong><a href=\"https://www.artlifting.com/pages/state-street-partnership\"><span style=\"text-decoration:underline\">State Street</span></a> designed its new 500,000-square-foot Boston headquarters to reflect its values of connection, inclusion, and community. To bring those values to life, the company partnered with ArtLifting to develop an art rotation program that includes:</p><p><br/></p><ul><li>Bi-annual large-scale print rotation across 19 floors</li><li>High-impact original artwork for executive spaces</li><li>Digital art licensing initiatives to support communicating impact and internal communications</li></ul><p><br/>The art rotation program brings hundreds of artworks into the workplace while creating ongoing financial opportunities for artists.</p><p><br/>Artist <a href=\"https://www.artlifting.com/collections/addison-barker?_pos=1&_psq=Addison+Barker&_ss=e&_v=1.0\"><span style=\"text-decoration:underline\">Addison Barker</span></a> shared:</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_R8MrVM": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_GA3LHF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“I’m very grateful to have so many of my works selected for the State Street rotation. Not only do I feel supported and appreciated for my work, but financially the impact brings more stability as well.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_Bjwjng": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_wGHCid",
+        "heading_VCH8eH",
+        "text_7iqwJy",
+        "spacer_R8MrVM",
+        "text_GA3LHF",
+        "button_Bjwjng"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_Fxjb8z": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_pqd4XE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_-_IMG_2010_Print_Office_StateStreet_Boston_56de9d7d-a9dd-4523-98ee-56f482513b49.jpg",
+            "link": ""
+          }
+        },
+        "image_JhcghB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1471.jpg",
+            "link": ""
+          }
+        },
+        "image_jMHfHK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2785_1c95f877-8847-476b-b87e-f40087554000.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pqd4XE",
+        "image_JhcghB",
+        "image_jMHfHK"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_kgQdz3": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_V6xkf3": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_rb9hg6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Impact and Curation at Scale",
+            "text_size": 8
+          }
+        },
+        "text_M7WQnL": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Amazon: Embedding Representation Through Original Works</strong></p><p><strong><br/></strong>At <a href=\"https://www.artlifting.com/pages/amazon-hq2\"><span style=\"text-decoration:underline\">Amazon’s HQ2 in Arlington</span></a>, the company sought to honor local history and make representation visible in the environment. ArtLifting curated a collection of original artwork by emerging artists with disabilities and innovative creative processes.</p><p><br/>Patrick Miller, former Director of Facilities at Amazon, shared:</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_tgHwLe": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_Bq3Nm9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“ArtLifting lifts people up. Our employees appreciate this representation of our values.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "spacer_t7x9yq": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_iHENhG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Artist <a href=\"https://www.artlifting.com/collections/quana-madison?_pos=1&_psq=Qu%C3%A1na+Madison&_ss=e&_v=1.0\"><span style=\"text-decoration:underline\">Quána Madison</span></a> described the personal impact:</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_yxg84t": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_97UFXE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“I’m so happy that Amazon acquired my art. I use their services regularly, which makes an incredible impact on my life as a person with disabilities. It allows me to access items and save energy when I’m too fatigued to drive.”</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "button_mhyiXP": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_V6xkf3",
+        "heading_rb9hg6",
+        "text_M7WQnL",
+        "spacer_tgHwLe",
+        "text_Bq3Nm9",
+        "spacer_t7x9yq",
+        "text_iHENhG",
+        "spacer_yxg84t",
+        "text_97UFXE",
+        "button_mhyiXP"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_UtGGG7": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_hpEU9F": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtLifting_at_Amazon_HQ-5051.jpg",
+            "link": ""
+          }
+        },
+        "image_MWdR6T": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtLifting_at_Amazon_HQ-5069.jpg",
+            "link": ""
+          }
+        },
+        "image_JJydwR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtLifting_at_Amazon_HQ-5213.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hpEU9F",
+        "image_MWdR6T",
+        "image_JJydwR"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_nibJcU": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_c4njGT": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_Cf89tb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Creating Inclusive Environments Through Meaningful Art",
+            "text_size": 8
+          }
+        },
+        "text_FnwH7h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Amazon and State Street’s scale is unique, but the principles are universal. When organizations select meaningful art that aligns with their mission, the environment communicates those values with clarity and authenticity.</p><p><br/>Meaningful workplace art placements:</p><ul><li>Strengthen employee pride and engagement</li><li>Support creativity, focus, and well-being</li><li>Demonstrate values through everyday experience</li></ul><p><br/>Art is not a finishing touch. It is a strategic design strategy for creating environments where people feel connected and where shared purpose becomes visible.</p><p><br/>The impact extends beyond the walls. When companies invest in the work of artists with disabilities, they expand access to economic opportunity, creative platforms, and professional recognition.</p><p><br/>The return is more than financial. It is deeply human.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_9rGbQc": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_c4njGT",
+        "heading_Cf89tb",
+        "text_FnwH7h",
+        "button_9rGbQc"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_39gQxr": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_MqEVPy": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_A6gkCh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to Design With Purpose?",
+            "text_size": 8
+          }
+        },
+        "text_mg8Uqg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ArtLifting partners with organizations to create environments that reflect the values that make culture real. Whether you are reimagining a workplace, designing a healthcare facility, or building a space that honors your community, we help companies create vibrant environments where everyone can thrive and feel connected.</p><p><br/><a href=\"https://www.artlifting.com/pages/contact-us\"><span style=\"text-decoration:underline\">Partner with ArtLifting and learn more about our services →</span></a></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_mVarcm": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_MqEVPy",
+        "heading_A6gkCh",
+        "text_mg8Uqg",
+        "button_mVarcm"
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
@@ -583,10 +985,14 @@
     "section_hero_mYcreP",
     "section_richtext_eQqVdz",
     "section_richtext_YV86cE",
-    "section_gallery_Fxjb8z",
     "section_richtext_RYYXqK",
-    "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_richtext_L3Ur6j",
+    "section_gallery_Fxjb8z",
+    "section_richtext_kgQdz3",
+    "section_gallery_UtGGG7",
+    "section_richtext_nibJcU",
+    "section_richtext_39gQxr",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
