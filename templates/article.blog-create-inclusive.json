@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "How to Create Inclusive Spaces With Workplace Art",
             "text_size": 8
           }
         },
@@ -101,6 +101,7 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/paypal-hq-website-profile_0001_IMG_2349_80c71c71-ce63-46da-b2e2-b1410e8a1cf7.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>Workplace art helps organizations make inclusive values visible by curating artwork and artist stories into everyday environments. This guide offers a practical framework for using art to create inclusive spaces that strengthen culture, deepen engagement, and deliver measurable impact.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Business leaders will learn how to activate inclusion in tangible ways through the built environment.</li><li>How to design workplace art programs that communicate values, community, and lived experience.</li><li>Understand how uplifting local artists supports belonging, storytelling, and connection in hybrid workplaces.</li><li>Use a repeatable framework to measure cultural impact and elevate your corporate art program.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,14 +214,14 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Why Workplace Art Matters in Inclusive Workplace Design",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>In a hybrid world, employees need workplaces where they feel respected, represented, and reflected in the environment around them. Most organizations care deeply about inclusion, yet the workplace design process does not always translate those values into the environment itself.</p><p><br/>This creates a familiar gap: workplaces appear inclusive on paper, but employees do not always feel that inclusion in practice. One of the most visible places this gap shows up is in the artwork. Most corporate art may look polished, but it does not always communicate the stories, people, or lived experiences a company intends to honor and celebrate.</p><p><br/>Intentional workplace art improves belonging, enhances storytelling, and helps employees feel more connected to their environment.</p><p><br/>If you are responsible for shaping spaces that make inclusion visible and measurable, this guide is for you. </p><p><br/>ArtLifting has partnered with more than <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">500 organizations</span></a> facing a similar challenge, and the path forward starts with being intentional about what your environment communicates.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -266,48 +267,6 @@
         "padding_bottom": 36
       }
     },
-    "section_gallery_Fxjb8z": {
-      "type": "section-gallery",
-      "blocks": {
-        "image_pqd4XE": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_JhcghB": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_jMHfHK": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_pqd4XE",
-        "image_JhcghB",
-        "image_jMHfHK"
-      ],
-      "name": "Gallery",
-      "settings": {
-        "scale_image": false,
-        "wh_ratio": 1,
-        "bg": "palette--light bg--neutral",
-        "add_gutters": true,
-        "progress_bar": "mobile",
-        "grid_large": 2,
-        "grid_medium": 2,
-        "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_RYYXqK": {
       "type": "section-richtext",
       "blocks": {
@@ -322,14 +281,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "How Workplace Art Communicates Culture and Inclusion",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Stop decorating. Start communicating.</p><p><br/>The problem is not a lack of artwork. It is a lack of intention and focus. Most teams ask, “What art fits this wall?” when the better question is, “What story should this space tell?”</p><p><br/>When art is selected strategically and sourced from artists representing diverse lived experiences, it becomes visible living proof of company culture. When treated as an afterthought, uninspired art programs risk undermining the values the art is meant to reflect.</p><p><br/>Most organizations default to one of two paths:</p><ul><li><strong>Typical approach:</strong> Choose art to match finishes and brand colors.</li><li><strong>Strategic approach:</strong> Choose on-brand corporate art to reflect people, values, and lived experience.</li></ul><p><br/>Stopping at the typical approach produces polished but impersonal environments. A strategic approach creates spaces that connect.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -375,18 +334,6 @@
         "padding_bottom": 36
       }
     },
-    "section_image_TtdgBV": {
-      "type": "section-image",
-      "name": "Image",
-      "settings": {
-        "max_width": 80,
-        "x_align": "center",
-        "color_bg": "palette--light bg--neutral",
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_nxqa6C": {
       "type": "section-richtext",
       "blocks": {
@@ -401,14 +348,14 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Three Steps to Designing Inclusive Spaces With Workplace Art",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p><strong>Step 1: Curate With Purpose</strong></p><p><br/>Strategic workplace art programs begin with emotional intention, not aesthetics. Start by asking:</p><ul><li>What should people feel when they walk through this space?</li><li>How can art spark connection for those who use it every day?</li></ul><p><br/>From there, ArtLifting curators and Art Advisors translate values into visual language. If you are building a culture of innovation, consider artists who experiment with innovative materials or processes. If community is a priority, uplift local artists whose creative practice reflects collaboration or shared experience.</p><p><br/>When employees understand the story behind a piece — whether it reflects innovation, collaboration, or a new perspective — the art becomes evidence of the values you claim to hold. Every ArtLifting artwork includes a plaque detailing the artist’s story, celebrating their professional talents and lived experiences, so those values are visible and accessible in everyday moments.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -442,6 +389,433 @@
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_Fxjb8z": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_pqd4XE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Art_Lifting-10.jpg",
+            "link": ""
+          }
+        },
+        "image_JhcghB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Art_Lifting-2.jpg",
+            "link": ""
+          }
+        },
+        "image_jMHfHK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Art_Lifting-29.jpg",
+            "link": ""
+          }
+        },
+        "image_pFgyJg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Art_Lifting-37_d49caf81-0691-4c81-9338-92d168d225a0.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pqd4XE",
+        "image_JhcghB",
+        "image_jMHfHK",
+        "image_pFgyJg"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_UtN7q6": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_dKEDJJ": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_NHqbgU": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Three Steps to Designing Inclusive Spaces With Workplace Art",
+            "text_size": 8
+          }
+        },
+        "text_3WaQA6": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Step 2: Design for impact</strong></p><p><br/>Once the purpose is clear, consider how people will experience the space. Workplace art influences how employees feel as they move through the day.</p><p><br/></p><ul><li><strong>Arrival zones:</strong> Bold, vibrant artwork that establishes identity and intention.</li><li><strong>Focus areas:</strong> Soft palettes, organic forms, and scenes depicting nature that support concentration.</li><li><strong>Wellness rooms:</strong> Calming, minimal artwork that encourages restoration.</li></ul><p><br/></p><p>Installation is only part of the impact. Activation brings art to life. </p><p><br/></p><p>Launch your workplace art program as a cultural moment by sharing artist stories internally, offering simple self-guided tours, or hosting an art opening. When storytelling becomes part of the environment and workplace programming, culture shifts from being stated to being felt.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_DVDAEj": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_dKEDJJ",
+        "heading_NHqbgU",
+        "text_3WaQA6",
+        "button_DVDAEj"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_tNx8Ca": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_7zALDY": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_yDbAFX": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Three Steps to Designing Inclusive Spaces With Workplace Art",
+            "text_size": 8
+          }
+        },
+        "text_JpjMPj": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Step 3: Sustain the momentum</strong></p><p><br/>Inclusion is not a one-time project. The strongest workplace art programs build in measurement and evolution.</p><p><br/>Track how spaces are working by using:</p><ul><li>Pulse surveys capturing how employees feel in different spaces</li><li>Observations of how teams utilize and occupy areas activated with art</li><li>Qualitative feedback from conversations</li></ul><p><br/>Pair cultural insights with social impact metrics:</p><ul><li>How many ArtLifting artists did you support?</li><li>What economic opportunity was created?</li><li>How does a partnership with ArtLifting reinforce broader commitments and strategies?</li></ul><p><br/><a href=\"https://www.artlifting.com/pages/services\"><span style=\"text-decoration:underline\">Rentals, leasing options, and rotation programs</span></a> keep spaces dynamic and engaging, ensuring your environment evolves with your team and values. Rentals offer flexibility, eliminate inventory management, and provide a cost-effective way to keep your art program current. </p><p><br/>These programs make it easy to refresh existing spaces or build an art program from the ground up, aligning your environment with your mission. Rotations also create opportunities to champion more ArtLifting artists and share a wider range of stories about innovative practices and experiences with disabilities, so employees encounter new perspectives over time.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_d6zawA": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_7zALDY",
+        "heading_yDbAFX",
+        "text_JpjMPj",
+        "button_d6zawA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_q3crJ4": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_rnBmiK": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_DTHXC8": {
+          "type": "heading",
+          "settings": {
+            "heading": "What A Successful Workplace Art Program Looks Like in Practice",
+            "text_size": 8
+          }
+        },
+        "text_4gbXPw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ArtLifting’s partners, including Fortune 500 companies and high-growth workplaces,  use strategic corporate artwork to translate values into environments that employees feel. Explore how this comes to life in client stories such as <a href=\"https://www.artlifting.com/pages/paypal\"><span style=\"text-decoration:underline\">PayPal’s workplace transformation</span></a> on <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">ArtLifting’s portfolio page</span></a>.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_rhB3XJ": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_rnBmiK",
+        "heading_DTHXC8",
+        "text_4gbXPw",
+        "button_rhB3XJ"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_9gVp34": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_TnwPJm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/paypal-hq-website-profile_0005_IMG_0300_73d3683e-8154-438a-b5ad-bb3b9c4ca411.jpg",
+            "link": ""
+          }
+        },
+        "image_RL3LrE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/paypal-hq-website-profile_0003_IMG_3959_9cc0476a-d5bf-47a4-ba66-cf4a4a137aaa.jpg",
+            "link": ""
+          }
+        },
+        "image_mPKHUe": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_TnwPJm",
+        "image_RL3LrE",
+        "image_mPKHUe"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_jRX8Ra": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_mjbm6T": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_KmgXY7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Next Step: Let’s Talk About Art!",
+            "text_size": 8
+          }
+        },
+        "text_PQD6Yb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your walls are already telling a story. Let us help you ensure it is the story you intend.</p><p><br/>ArtLifting makes it simple:</p><ul><li>Partner with a dedicated Art Advisor to align on your goals, space typologies, and budget.</li><li>Receive a curated proposal tailored to your locations, values, and brand.</li><li>Choose from art rentals and rotations, original artwork, wallcoverings, and more. ArtLifting will handle installation, support artist storytelling, and provide guidance on maximizing impact in your community.</li></ul><p><br/>Together, we've helped <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">500+ organizations</span></a> turn their values into environments people feel and remember.</p><p><br/><a href=\"https://www.artlifting.com/pages/contact-us\"><span style=\"text-decoration:underline\">Ready to bring your values to life through art?</span></a> Inclusion doesn't happen by accident. Let's design it in — and create opportunities for ArtLifting artists with disabilities while we're at it.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_yYM66U": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_mjbm6T",
+        "heading_KmgXY7",
+        "text_PQD6Yb",
+        "button_yYM66U"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_Lw97C7": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_CaKWGW": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_rM9ci7": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Your Next Step: Let’s Talk About Art!",
+            "text_size": 8
+          }
+        },
+        "text_3TxY6X": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Images</p><p>1. ArtLifting Artist <a href=\"https://www.artlifting.com/collections/marc\">Marc</a> stands in front of an arrangement of three of his paintings at PayPal’s HQ inSan Jose, California</p><p>2. <em>Ore</em> by <a href=\"https://www.artlifting.com/collections/marc\"><span style=\"text-decoration:underline\">Marc</span></a> with an Artist Story plaque beside the artwork featured at 25 North Lex by Greystar in White Plains, NY. </p><p>3.<em>Diversity 1, 4, and 5</em> by <a href=\"https://www.artlifting.com/collections/marc\"><span style=\"text-decoration:underline\">Marc</span></a> hang at 25 North Lex by Greystar in White Plains, NY. The artworks are accompanied by an ArtLifting “Art with Impact” plaque and an Artist Story plaque featuring Marc.</p><p>4. <em>Sweet Yvette III and IV</em> by <a href=\"https://www.artlifting.com/collections/yvette\"><span style=\"text-decoration:underline\">Yvette</span></a>with an Artist Story plaque beside the artwork featured at 25 North Lex by Greystar in White Plains, NY. </p><p>5. Close-up of <em>Places I Remember</em> by <a href=\"https://www.artlifting.com/collections/cheryl-kinderknecht\"><span style=\"text-decoration:underline\">Cheryl Kinderknecht</span></a>, hanging in an elevator lobby with an Artist Story plaque beside the artwork featured at 25 North Lex by Greystar in White Plains, NY. </p><p>6. Three canvas prints hang on a wall at PayPal’s HQ inSan Jose, California</p><p>7. Christina Bailey and Elliott Taylor pose 'lifting' a painting by <a href=\"https://www.artlifting.com/collections/marc\"><span style=\"text-decoration:underline\">Marc</span></a> onto a wall at PayPal’s HQ inSan Jose, California</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_zJciEK": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_CaKWGW",
+        "heading_rM9ci7",
+        "text_3TxY6X",
+        "button_zJciEK"
       ],
       "name": "Rich text",
       "settings": {
@@ -583,10 +957,15 @@
     "section_hero_mYcreP",
     "section_richtext_eQqVdz",
     "section_richtext_YV86cE",
-    "section_gallery_Fxjb8z",
     "section_richtext_RYYXqK",
-    "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_gallery_Fxjb8z",
+    "section_richtext_UtN7q6",
+    "section_richtext_tNx8Ca",
+    "section_richtext_q3crJ4",
+    "section_gallery_9gVp34",
+    "section_richtext_jRX8Ra",
+    "section_richtext_Lw97C7",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
