@@ -408,28 +408,28 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Art_Lifting-10.jpg",
-            "link": ""
+            "link": "https://www.artlifting.com/pages/25-north-lex-by-greystar"
           }
         },
         "image_JhcghB": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Art_Lifting-2.jpg",
-            "link": ""
+            "link": "https://www.artlifting.com/pages/25-north-lex-by-greystar"
           }
         },
         "image_jMHfHK": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Art_Lifting-29.jpg",
-            "link": ""
+            "link": "https://www.artlifting.com/pages/25-north-lex-by-greystar"
           }
         },
         "image_pFgyJg": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Art_Lifting-37_d49caf81-0691-4c81-9338-92d168d225a0.jpg",
-            "link": ""
+            "link": "https://www.artlifting.com/pages/25-north-lex-by-greystar"
           }
         }
       },
@@ -449,7 +449,7 @@
         "grid_large": 2,
         "grid_medium": 2,
         "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -658,14 +658,14 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/paypal-hq-website-profile_0005_IMG_0300_73d3683e-8154-438a-b5ad-bb3b9c4ca411.jpg",
-            "link": ""
+            "link": "https://www.artlifting.com/pages/paypal"
           }
         },
         "image_RL3LrE": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/paypal-hq-website-profile_0003_IMG_3959_9cc0476a-d5bf-47a4-ba66-cf4a4a137aaa.jpg",
-            "link": ""
+            "link": "https://www.artlifting.com/pages/paypal"
           }
         },
         "image_mPKHUe": {
@@ -691,7 +691,7 @@
         "grid_large": 2,
         "grid_medium": 2,
         "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
       }
