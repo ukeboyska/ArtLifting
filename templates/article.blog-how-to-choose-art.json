@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "How to Choose Quality Artwork for Any Office or Commercial Space",
             "text_size": 8
           }
         },
@@ -101,6 +101,7 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/Art_Lifting-3_dcf2c1b6-78b2-4e48-8923-420380eb7991.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>Quality artwork shapes how people experience your environment the moment they enter. When curated with intention, it elevates your space, strengthens your brand, and enriches the daily experience of employees, clients, and visitors.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Learn how quality artwork influences mood, engagement, and connection in any workplace or commercial setting.</li><li>See how organizations build scalable art programs across multi-site portfolios.</li><li>Understand how office wall art, storytelling, and design alignment enhance the built environment.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,14 +214,14 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "1. Define the Purpose of Your Space",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Effective art curation begins long before selecting individual pieces. A curator first studies how a space functions and how people move through it. That clarity becomes the foundation for every decision that follows.</p><p><br/>Ask yourself:</p><ul><li>What is the primary function of this space: welcome, focus, collaboration, celebration, or restoration?</li><li>How should people feel when they enter or pass through?</li><li>What message should the environment communicate about our organization and our values?</li></ul><p><br/>When purpose guides selection, quality artwork becomes a tool for shaping emotion, behavior, and connection, supporting both the design vision and the human experience.</p><p><br/>ArtLifting Art Advisors are experienced in helping clients define their strategy and vision. When you partner with ArtLifting, we will make it easy to discover what types of artwork and programs would make the biggest impact in your spaces.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -272,18 +273,28 @@
         "image_pqd4XE": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Art_Lifting-1_1.jpg",
             "link": ""
           }
         },
         "image_JhcghB": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Art_Lifting-32_f275ad84-ba7a-4b9d-944f-cb547e6595e7.jpg",
             "link": ""
           }
         },
         "image_jMHfHK": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Art_Lifting-22_c39bf299-cbe3-4dc6-9803-f646bcd4ba3a.jpg",
+            "link": ""
+          }
+        },
+        "image_NetCF3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Art_Lifting-36_0bc654e1-9716-4a86-b658-84e3cc7b71f3.jpg",
             "link": ""
           }
         }
@@ -291,7 +302,8 @@
       "block_order": [
         "image_pqd4XE",
         "image_JhcghB",
-        "image_jMHfHK"
+        "image_jMHfHK",
+        "image_NetCF3"
       ],
       "name": "Gallery",
       "settings": {
@@ -303,7 +315,7 @@
         "grid_large": 2,
         "grid_medium": 2,
         "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -322,14 +334,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "2. Curate Quality Artwork That Reflects Your Brand and Values",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Corporate artwork gives organizations a tangible way to express what they stand for. When thoughtfully curated, each piece contributes to a narrative that aligns with your brand story and culture.</p><p><br/>Artwork can:</p><ul><li>Reflect the diversity of the communities you serve</li><li>Communicate innovation through bold, experimental processes</li><li>Celebrate local artists and regional identity</li><li>Strengthen a sense of belonging in shared spaces</li></ul><p><br/>When the art on your walls mirrors your values, your environment becomes a living expression of your culture, reinforcing trust and purpose without a single written statement.</p><p><br/>ArtLifting curators will recommend artwork from our vast collection, so you can focus on hitting your goals. Every collaboration starts with a custom proposal identifying key locations and opportunities to integrate impact art into your unique environment.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -375,13 +387,38 @@
         "padding_bottom": 36
       }
     },
-    "section_image_TtdgBV": {
-      "type": "section-image",
-      "name": "Image",
+    "section_gallery_rejiUw": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_PxWnEb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtLifting_at_Amazon_HQ-5210_4ff7b4c2-4eea-45b4-9ac2-c42778c57650.jpg",
+            "link": ""
+          }
+        },
+        "image_DnNTQj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtLifting_at_Amazon_HQ-4944.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_PxWnEb",
+        "image_DnNTQj"
+      ],
+      "name": "Gallery",
       "settings": {
-        "max_width": 80,
-        "x_align": "center",
-        "color_bg": "palette--light bg--neutral",
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -401,14 +438,14 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "3. Types of Artwork to Consider for Your Space",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>A quality art collection includes visual variety: moments of energy, calm, texture, and discovery woven throughout the space.</p><p><br/>Consider a curated mix of:</p><ul><li>Abstract artwork that introduces movement and vibrancy</li><li>Textural or process-driven pieces that invite curiosity </li><li>Nature-inspired compositions that promote balance and well-being</li><li>Artwork by local artists or depicting local landscapes  that deepen community connection and sense of place</li></ul><p><br/>ArtLifting’s approach ensures a wide spectrum of viewers feel represented. We also support the interior architecture of your space, enriching corridors, meeting rooms, social zones, and quiet areas with distinct sensory moments.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -439,6 +476,319 @@
         "heading_G7VGk7",
         "text_FdhhiV",
         "button_HzYKT4"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_eaPfpC": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_h4migj": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_AJVFc3": {
+          "type": "heading",
+          "settings": {
+            "heading": "4. Using Artwork to Spark Engagement Across Your Space",
+            "text_size": 8
+          }
+        },
+        "text_L4phPn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Art humanizes the built environment. When a piece carries a compelling story or a striking creative process, it invites people to pause, reflect, and connect.</p><p><br/>Elements that deepen engagement include:</p><ul><li>A standout artistic technique or visual language</li><li>A narrative that offers insight into the artist’s perspective</li><li>A moment of originality that prompts conversation</li></ul><p><br/>Every ArtLifting artwork includes a plaque detailing the artist's story, inviting viewers to learn about the real-world experiences of people with disabilities and the innovative practices our artists employ.</p><p><br/>Organizations often activate their art collections or rotation programs by hosting openings, featuring artists during an event, or offering resources for self-guided tours. These simple touchpoints transform corporate art into shared experiences that build connection across the workplace.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_qUqzDC": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_h4migj",
+        "heading_AJVFc3",
+        "text_L4phPn",
+        "button_qUqzDC"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_jTDVj4": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_zj8gGD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtLifting_at_Amazon_HQ-5069_4be83b50-7a3a-4997-9a7d-23e49210ee73.jpg",
+            "link": ""
+          }
+        },
+        "image_J8EwhX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_-_IMG_8896_ErikJensen_StateStreet_Boston_1522b65c-4435-4ef4-b664-6e2b4b2267a5.jpg",
+            "link": ""
+          }
+        },
+        "image_Jaq6dQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5644.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zj8gGD",
+        "image_J8EwhX",
+        "image_Jaq6dQ"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": true,
+        "wh_ratio": 1.5,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_z6nThF": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_YQA3EV": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_PMr7EN": {
+          "type": "heading",
+          "settings": {
+            "heading": "5. Ensure Your Art Program Is Durable and Scalable",
+            "text_size": 8
+          }
+        },
+        "text_MM4WHN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sustaining a long-term art program across offices or commercial sites requires practical planning. ArtLifting curators evaluate materials, placement, lighting, and consistency across locations to help ensure each piece looks as striking in year five as it did on installation day.</p><p><br/>Key considerations include:</p><ul><li>Material durability and long-term color stability</li><li>Lighting and glare management</li><li>Placement that aligns with safety and accessibility standards</li><li>Frame profiles that support repeated use across buildings</li><li>Scalability for future expansion or refresh cycles</li></ul><p><br/>ArtLifting curators also consider formats that can flex with a portfolio over time. In ArtLifting projects, curators typically recommend:</p><ul><li><strong>Original artwork</strong> to bring depth, texture, and presence to key spaces such as reception areas, executive floors, and important gathering zones. These pieces act as long-term anchors that hold their impact as the broader program evolves and scales.</li><li><strong>Art rentals</strong> for organizations that want to scale quickly, manage budgets efficiently, and pilot artwork across multiple locations. Art rentals make it possible to activate spaces with high-quality art without long-term commitment in every area, while still maintaining a cohesive visual standard.</li><li><strong>Art rotation programs</strong> to keep environments feeling fresh and engaging over time. Rotations allow teams to refresh select spaces on a predictable schedule, share a wider range of ArtLifting artist stories, and adapt to evolving workplace needs without rebuilding the program from scratch.</li><li><strong>Architectural features </strong>like wallcoverings, murals, sculptural installations, and custom commissions bring high-impact artwork into the environment in surprising and memorable ways.</li></ul><p><br/>These flexible options make it possible to build a cohesive and innovative art program that supports growth, simplifies maintenance, and keeps spaces engaging year after year.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_VMdnex": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_YQA3EV",
+        "heading_PMr7EN",
+        "text_MM4WHN",
+        "button_VMdnex"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_Wipxrh": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_iJbqKF": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_JKXrNK": {
+          "type": "heading",
+          "settings": {
+            "heading": "6. Why Expert Curation Matters When Selecting Quality Artwork",
+            "text_size": 8
+          }
+        },
+        "text_8hwVjH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Selecting quality artwork is more effective with guidance from experts who understand both design intent and workplace dynamics.</p><p><br/>ArtLifting Art Advisors and our curation team offer:</p><ul><li>A complimentary custom proposal tailored to your brand, values, and space types</li><li>Artwork recommendations aligned with your design standards, culture, and budget</li><li>Access to artists whose lived experiences bring authenticity and depth</li><li>Support with framing, production, storytelling, and installation</li></ul><p><br/>Whether designing a single space or executing a multi-site rollout, expert curation ensures your art program is cohesive, intentional, and impactful.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_N9XMEY": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_iJbqKF",
+        "heading_JKXrNK",
+        "text_8hwVjH",
+        "button_N9XMEY"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_G6tTKW": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_iD8fRM": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_BtQ9TM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bring Your Workplace to Life",
+            "text_size": 8
+          }
+        },
+        "text_3Fc97n": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quality artwork influences how people feel, connect, and experience your environment every day. With intentional curation and a trusted partner like ArtLifting, your environment becomes brighter, more welcoming, and more reflective of the communities it serves.</p><p><br/>If you are designing a new space or planning a refresh, ArtLifting can craft a tailored proposal that brings your vision to life through exceptional art curation.</p><p><br/>Your space has a story — let us help you tell it with impact.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_LEjXa3": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_iD8fRM",
+        "heading_BtQ9TM",
+        "text_3Fc97n",
+        "button_LEjXa3"
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
@@ -585,8 +935,13 @@
     "section_richtext_YV86cE",
     "section_gallery_Fxjb8z",
     "section_richtext_RYYXqK",
-    "section_image_TtdgBV",
+    "section_gallery_rejiUw",
     "section_richtext_nxqa6C",
+    "section_richtext_eaPfpC",
+    "section_gallery_jTDVj4",
+    "section_richtext_z6nThF",
+    "section_richtext_Wipxrh",
+    "section_richtext_G6tTKW",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
