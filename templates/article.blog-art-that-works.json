@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "The Business Case for Art That Works",
             "text_size": 8
           }
         },
@@ -101,6 +101,7 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/rsm_2_13e81714-a5cd-4944-b1a9-90fddd6ef646.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>Workplace art is emerging as a strategic lever for engagement, productivity, culture, and employee well-being. As expectations for the workplace change, leaders are recognizing that corporate artwork delivers measurable business value, not just aesthetic appeal.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Corporate real estate teams, architects, and designers will learn how workplace art delivers measurable value for performance, engagement, and workplace satisfaction.</li><li>HR and employee experience leaders will see research-backed evidence showing how art improves mood, collaboration, productivity, and well-being.</li><li>Business leaders will understand the ROI behind corporate artwork by exploring productivity gains, reduced burnout, and strengthened employer brand.</li><li>Readers will discover how ArtLifting’s scalable, turnkey programs help organizations translate research into environments that support thriving teams.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,14 +214,14 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Why Art in the Workplace Matters for Culture and Employee Experience",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Organizations are navigating a challenging balance: attract and retain top talent, support well-being, and create environments where increasingly hybrid teams feel engaged. At the same time, they are managing tighter budgets and higher expectations.</p><p><br/>Through <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">partnerships across industries</span></a>, ArtLifting has seen a clear trend: companies are reexamining what their spaces communicate and how those spaces influence behavior, belonging, and performance.</p><p><br/>Workplace art plays an essential role in that shift.</p><p><br/>When integrated intentionally, art becomes more than decoration. It becomes:</p><p></p><ul><li>A cultural touchpoint</li></ul><p></p><ul><li>A spark for creativity</li></ul><p></p><ul><li>A visual anchor for belonging</li></ul><p></p><ul><li>A daily reinforcement of purpose and company values</li></ul><p><br/>When art becomes part of the workplace strategy, the environment transforms into a catalyst for engagement.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -266,44 +267,69 @@
         "padding_bottom": 36
       }
     },
-    "section_gallery_Fxjb8z": {
-      "type": "section-gallery",
+    "section_richtext_kn364d": {
+      "type": "section-richtext",
       "blocks": {
-        "image_pqd4XE": {
-          "type": "image",
+        "kicker_WayGxK": {
+          "type": "kicker",
           "settings": {
-            "link": ""
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
           }
         },
-        "image_JhcghB": {
-          "type": "image",
+        "heading_LHkjq9": {
+          "type": "heading",
           "settings": {
-            "link": ""
+            "heading": "The Benefits of Art in the Workplace: Research on Well-Being and Performance",
+            "text_size": 8
           }
         },
-        "image_jMHfHK": {
-          "type": "image",
+        "text_xDpCat": {
+          "type": "text",
           "settings": {
-            "link": ""
+            "text": "<p>A growing body of research shows a strong connection between workplace art and improved well-being, performance, and team cohesion.</p><p><br/>Integrating art into the workplace:</p><ul><li>Connects employees to the space, to colleagues, and to their community</li></ul><p></p><ul><li>Adds humanity and warmth to environments that are often efficiency-driven</li></ul><p></p><ul><li>Creates measurable ROI through differentiation, engagement, and retention</li></ul><p></p><p><br/>These findings align with what workplace strategists and designers have observed for years: Environments enriched with art perform better.</p><p><br/>Additional research reinforces this:</p><ul><li>Even brief interactions with art, including digital pieces, can significantly improve mood, reduce anxiety, and decrease loneliness (<em>Frontiers in Psychology</em>, 2022).</li></ul><p></p><ul><li>Workspaces featuring real artwork and natural elements support stronger collaboration and openness (<em>Work Design Magazine</em>, 2024).</li></ul><p></p><ul><li>Artwork that reflects diverse experiences strengthens cultural cohesion and makes organizational values visible in a tangible way.</li></ul><p><br/>When incorporated intentionally, workplace art becomes a consistent source of connection and a meaningful contributor to well-being.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_W7aCjN": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
           }
         }
       },
       "block_order": [
-        "image_pqd4XE",
-        "image_JhcghB",
-        "image_jMHfHK"
+        "kicker_WayGxK",
+        "heading_LHkjq9",
+        "text_xDpCat",
+        "button_W7aCjN"
       ],
-      "name": "Gallery",
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
       "settings": {
-        "scale_image": false,
-        "wh_ratio": 1,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "add_gutters": true,
-        "progress_bar": "mobile",
-        "grid_large": 2,
-        "grid_medium": 2,
-        "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
+        "content_width": 850,
+        "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -322,14 +348,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "The Business Case for Corporate Artwork and Real Workplace Impact",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>The return on investing in corporate artwork is both measurable and meaningful. A study from the University of Exeter found that employees working in art-enriched spaces are 17% more productive than those in bare environments.</p><p><br/>Beyond productivity, investing in artwork by local artists strengthens regional creative economies and brings visibility to local artists who shape cultural and creative identity.</p><p><br/>When organizations invest in artists facing systemic barriers, including artists living with disabilities, they create professional opportunities that align with today’s values-driven workforce while contributing to a more dynamic creative ecosystem.</p><p><br/>The benefits span the entire organization:<br/></p><ul><li>Employees feel more connected to the workplace.</li></ul><p></p><ul><li>Burnout decreases as mood and environmental support improve.</li></ul><p></p><ul><li>Brand values become visible and tangible throughout the workplace.</li></ul><p></p><ul><li>Teams begin to view the workplace as a destination, not an obligation.</li></ul><p><br/>When art is prioritized as part of workplace strategy, the environment becomes a place where people do more than work — they thrive.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -375,18 +401,6 @@
         "padding_bottom": 36
       }
     },
-    "section_image_TtdgBV": {
-      "type": "section-image",
-      "name": "Image",
-      "settings": {
-        "max_width": 80,
-        "x_align": "center",
-        "color_bg": "palette--light bg--neutral",
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_nxqa6C": {
       "type": "section-richtext",
       "blocks": {
@@ -401,14 +415,14 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "How ArtLifting Helps Organizations Curate Meaningful Art Programs",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>ArtLifting helps organizations make this impact tangible on their teams by connecting them with <a href=\"https://www.artlifting.com/pages/artists\"><span style=\"text-decoration:underline\">professional artists</span></a> in the disability arts community while delivering scalable art strategies that create both creative and social impact. </p><p><br/>Our approach is simple:</p><ol><li>Discover. Partner with a dedicated Art Advisor to develop your art strategy using efficient, turnkey solutions tailored to your goals.</li><li>Curate. Receive expert curation and a complimentary custom proposal tailored to your spaces and priorities.</li><li>Activate. We manage installation and advise you on how to maximize the ongoing impact of your art program to share your impact and engage employees.</li></ol><p><br/>Whether you are designing a corporate headquarters or rolling out new art programs across multiple sites, <a href=\"https://www.artlifting.com/pages/services\"><span style=\"text-decoration:underline\">our scalable solutions</span></a> turn research-rooted insights into engaging environments that spark connection, creativity, and well-being. </p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -449,6 +463,129 @@
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
         "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_XHmJ9H": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_XAwCzH": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_djQJmP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Integrating Art Into the Workplace: A Strategic Opportunity",
+            "text_size": 8
+          }
+        },
+        "text_HHYTcP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rethinking the role of workplace art begins with a simple question: What do you want your space to communicate?</p><p><br/>Whether your goal is to showcase local artwork, source unique original art for high-impact or executive spaces, lease artwork for flexibility, or launch an art rotation program that keeps environments dynamic and fresh, ArtLifting helps organizations translate values into visual impact.</p><p><br/>When art becomes strategy, your environment does more than inspire — it works for you.</p><p><br/><a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">Explore our portfolio</span></a> or <a href=\"https://www.artlifting.com/pages/contact-us\"><span style=\"text-decoration:underline\">contact us</span></a> today to discover how your organization can enhance spaces, foster connections, and create meaningful impact through art.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_AVAnrm": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_XAwCzH",
+        "heading_djQJmP",
+        "text_HHYTcP",
+        "button_AVAnrm"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_Fxjb8z": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_pqd4XE": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_JhcghB": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "image_jMHfHK": {
+          "type": "image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pqd4XE",
+        "image_JhcghB",
+        "image_jMHfHK"
+      ],
+      "disabled": true,
+      "name": "Gallery",
+      "settings": {
+        "scale_image": false,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_image_TtdgBV": {
+      "type": "section-image",
+      "disabled": true,
+      "name": "Image",
+      "settings": {
+        "max_width": 80,
+        "x_align": "center",
+        "color_bg": "palette--light bg--neutral",
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -583,10 +720,12 @@
     "section_hero_mYcreP",
     "section_richtext_eQqVdz",
     "section_richtext_YV86cE",
-    "section_gallery_Fxjb8z",
+    "section_richtext_kn364d",
     "section_richtext_RYYXqK",
-    "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_richtext_XHmJ9H",
+    "section_gallery_Fxjb8z",
+    "section_image_TtdgBV",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
