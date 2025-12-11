@@ -613,6 +613,9 @@
         "text_WTGCYM",
         "button_BHpjkc"
       ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
       "name": "Rich text",
       "settings": {
         "align_text": "text-left",
@@ -678,6 +681,7 @@
         "text_hcdKAE",
         "button_ckGmGa"
       ],
+      "custom_css": [],
       "name": "Rich text",
       "settings": {
         "align_text": "text-left",
