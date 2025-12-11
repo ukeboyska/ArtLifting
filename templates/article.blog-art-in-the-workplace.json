@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "The Hidden Power of Art in the Workplace",
             "text_size": 8
           }
         },
@@ -101,6 +101,7 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/Vocon_PwC_Miami_WEB-18.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>Art in the workplace is no longer just about aesthetics. It is a strategic tool for culture, creativity, and connection. When corporate art reflects the people and purpose behind a company, it transforms workplaces into spaces where employees feel inspired to engage.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Leaders will learn why corporate art matters, discovering how intentional artwork becomes a cultural catalyst rather than decoration.</li><li>Designers and architects will see how workplace art shapes emotional experience, belonging, and identity in ways design alone cannot.</li><li>HR and culture teams will understand how art helps answer the core question of modern work: <em>Why should people want to come into this space?</em></li><li>Recognize that when art reflects people and purpose, the workplace becomes a place where employees feel seen, inspired, and connected.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,14 +214,14 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Art in the Workplace Is More Than Decor – It Is a Catalyst for Culture",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>For years, workplace design has been driven by efficiency metrics such as cost per square foot, occupancy, and attendance mandates. These measurements reveal how space is used, but not how it feels to the people inside it. For too long, these space-based strategies have overshadowed what matters most: people.</p><p><br/>What if one of the most overlooked tools for driving engagement and innovation is not a new app, a rebrand, or another offsite, but art?</p><p><br/>When curated intentionally, art does more than fill a wall. It humanizes the environment. Employees respond to spaces that feel personal, meaningful, and expressive. Design that reflects lived experience creates a sense of authenticity and connection.</p><p><br/>ArtLifting partners with <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">companies across North America</span></a> to curate artwork that reflects culture, values, and community, turning everyday environments into touchpoints for connection and purpose.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -266,48 +267,6 @@
         "padding_bottom": 36
       }
     },
-    "section_gallery_Fxjb8z": {
-      "type": "section-gallery",
-      "blocks": {
-        "image_pqd4XE": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_JhcghB": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_jMHfHK": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_pqd4XE",
-        "image_JhcghB",
-        "image_jMHfHK"
-      ],
-      "name": "Gallery",
-      "settings": {
-        "scale_image": false,
-        "wh_ratio": 1,
-        "bg": "palette--light bg--neutral",
-        "add_gutters": true,
-        "progress_bar": "mobile",
-        "grid_large": 2,
-        "grid_medium": 2,
-        "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_RYYXqK": {
       "type": "section-richtext",
       "blocks": {
@@ -322,14 +281,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "The Cost of Disengagement and the Opportunity for Reconnection",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Today’s workplaces must now do more than support work. They must foster culture, spark creativity, and support belonging across hybrid teams, all while budgets tighten and expectations rise.</p><p><br/>The cost of getting this wrong is staggering:</p><ul><li>Disengaged employees cost organizations 34% of their annual salary (<a href=\"https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx\"><span style=\"text-decoration:underline\"><em>Gallup State of the Workplace Report, 2024</em></span></a>).</li></ul><p></p><ul><li>National office vacancy rates have reached 17.7% (<a href=\"https://www.moodys.com/web/en/us/insights/data-stories/us-commercial-real-estate-vacancies-downtown-vs-suburbs.html\"><span style=\"text-decoration:underline\"><em>Moody’s Analytics, 2024</em></span></a>), representing billions in underutilized space.</li></ul><p><br/>Despite these pressures, many companies still treat art as a finishing touch rather than a strategic lever for connection and engagement. Spaces that support wellbeing, flexibility, and purpose naturally foster stronger cultural alignment.</p><p><br/>Through <a href=\"https://www.artlifting.com/pages/services\"><span style=\"text-decoration:underline\">ArtLifting’s workplace art programs</span></a>, organizations transform blank walls into opportunities for storytelling and belonging. The result is an environment that feels intentional and connected to its mission.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -401,14 +360,14 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "Rethinking Workplace Strategy Through a Human-Centered Lens",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Most organizations want to create spaces where people feel welcomed and supported — yet many decisions are still driven by assumptions rather than employee input. Engaging people with lived experience ensures design choices reflect the needs and perspectives of those who use the space every day.</p><p><br/>Workplace art supports this shift by bringing depth, humanity, and emotion into environments that can otherwise feel impersonal. When art reflects real stories and creative perspectives, employees experience the workplace as a more grounded and welcoming place.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -442,6 +401,282 @@
       ],
       "custom_css": [
         ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_fzriH4": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_UYrhzj": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_JEzdpj": {
+          "type": "heading",
+          "settings": {
+            "heading": "How Leading Companies Use Art to Foster Inclusion and Innovation",
+            "text_size": 8
+          }
+        },
+        "text_iVFJeE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Forward-thinking leaders recognize that art stimulates innovative thinking, attracts diverse talent, and makes values visible in an authentic way. How a workplace looks and feels can demonstrate inclusion even more powerfully than what is written in handbooks or policies.</p><p><br/><a href=\"https://www.artlifting.com/pages/pwc-miami\"><span style=\"text-decoration:underline\">PwC’s</span></a> 38,000-square-foot Miami office is a clear example. When the company partnered with ArtLifting to curate a collection of original artwork to create a vibrant, wellness-centered environment, employees responded immediately.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_qTGyK8": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_RLdgPt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"I wish you could see the reactions of people when they see the art in our offices, especially when they read the artist bios. It opens up that possibility to talk about differences, talk about mental health, to talk about disabilities in a whole new way that is unbelievable.\"</p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "text_bxti9p": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>- Bryan Parker, Director of Workplace Strategy and Design, PwC</em></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "spacer_RQehmt": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 20,
+            "show_line": false
+          }
+        },
+        "text_wYFRRG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>By integrating artwork that reflects diverse lived experiences, PwC created an environment where inclusion is felt, not just communicated. Workplace art sparked daily opportunities for dialogue, reflection, and connection — turning the office into a space where culture is experienced in a real and human way.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_pYBJcp": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_UYrhzj",
+        "heading_JEzdpj",
+        "text_iVFJeE",
+        "spacer_qTGyK8",
+        "text_RLdgPt",
+        "text_bxti9p",
+        "spacer_RQehmt",
+        "text_wYFRRG",
+        "button_pYBJcp"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_Fxjb8z": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_pqd4XE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Vocon_PwC_Miami_WEB-29_vertical.jpg",
+            "link": ""
+          }
+        },
+        "image_JhcghB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Vocon_PwC_Miami_WEB-27.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pqd4XE",
+        "image_JhcghB"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": true,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_cLgR8H": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_UXtXKx": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_kc4yxn": {
+          "type": "heading",
+          "settings": {
+            "heading": "When Art Reflects Your People, Your Culture Comes to Life",
+            "text_size": 8
+          }
+        },
+        "text_WTGCYM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Across <a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">ArtLifting partnerships</span></a>, one theme remains consistent: When art reflects your people and your purpose, employees feel more connected, and culture becomes visible. At its core, good design reflects the people who move through a space, and art makes that reflection visible.</p><p><br/>Intentional workplace art supports:</p><ul><li>Meaningful daily engagement</li></ul><p></p><ul><li>A sense of shared identity</li></ul><p></p><ul><li>Stronger emotional connection to the environment and mission</li></ul><p></p><ul><li>A more welcoming and engaging experience</li></ul><p><br/>Workplace art is not decoration. It is a strategic tool for reminding people why their work matters. When art becomes part of your culture strategy, your walls begin to work for you.</p><p><br/>ArtLifting helps organizations bring this vision to life through <a href=\"https://www.artlifting.com/pages/services\"><span style=\"text-decoration:underline\">curated art programs</span></a>, original artwork, and creative solutions that turn workplace environments into expressions of purpose and connection.</p><p><br/><a href=\"https://www.artlifting.com/pages/contact-us\"><span style=\"text-decoration:underline\">Partner with ArtLifting today → </span></a></p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_BHpjkc": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_UXtXKx",
+        "heading_kc4yxn",
+        "text_WTGCYM",
+        "button_BHpjkc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_g9f8MP": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_X3Fihp": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_Y4aLbr": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "When Art Reflects Your People, Your Culture Comes to Life",
+            "text_size": 8
+          }
+        },
+        "text_hcdKAE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Images</p><p>1. Wallcovering by Quána Madison at PwC’s Miami Office</p><p>2. Geometric art by Rudolph Jean-Louis at PwC’s Miami Office</p><p>3. Yellow gradient canvas prints by Rick Ruark at PwC’s Miami Office</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_ckGmGa": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_X3Fihp",
+        "heading_Y4aLbr",
+        "text_hcdKAE",
+        "button_ckGmGa"
       ],
       "name": "Rich text",
       "settings": {
@@ -583,10 +818,13 @@
     "section_hero_mYcreP",
     "section_richtext_eQqVdz",
     "section_richtext_YV86cE",
-    "section_gallery_Fxjb8z",
     "section_richtext_RYYXqK",
     "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_richtext_fzriH4",
+    "section_gallery_Fxjb8z",
+    "section_richtext_cLgR8H",
+    "section_richtext_g9f8MP",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
