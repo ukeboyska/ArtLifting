@@ -47,7 +47,7 @@
         "heading_YydAmw": {
           "type": "heading",
           "settings": {
-            "heading": "Title of Blog",
+            "heading": "Closing the Disability Employment Gap With Art",
             "text_size": 8
           }
         },
@@ -101,6 +101,7 @@
       "type": "section-hero",
       "name": "Image banner",
       "settings": {
+        "image": "shopify://shop_images/112-artlifting-intuit-monicasemergiu_f89c69d4-8d9d-4a8d-b59f-4c83a81bd499.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -129,7 +130,7 @@
         "text_JBiTgy": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/></p>",
+            "text": "<p>The disability employment gap continues to limit access to meaningful work for millions of people. This article outlines the scale of the gap, how disability inclusion strengthens workplace culture and performance, and how partnering with ArtLifting expands economic opportunity for artists with disabilities through visibility, creativity, and access.</p>",
             "text_size": 4,
             "text_columns": 1
           }
@@ -151,7 +152,7 @@
         "text_NdxcJV": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li><li>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li></ul>",
+            "text": "<ul><li>Understand the current state of the disability employment gap and its impact on individuals, workplaces, and business outcomes</li><li>Learn how disability inclusion strengthens culture, creativity, and performance across organizations.</li><li>Experience how inclusive design and workplace art shape environments where people feel connected and represented.</li><li>Discover how partnering with ArtLifting expands economic opportunity for artists with disabilities.</li></ul>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -213,14 +214,14 @@
         "heading_iq3qWc": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "The Disability Employment Gap Is a Structural Issue",
             "text_size": 8
           }
         },
         "text_P4ijRY": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>One in four adults in the United States has a disability, yet people with disabilities remain significantly underrepresented in the workforce.</p><p><br/>According to the <a href=\"https://www.dol.gov/agencies/odep/research-evaluation/statistics\"><span style=\"text-decoration:underline\">U.S. Department of Labor</span></a>, 77% of adults with disabilities are not in the workforce, compared to 33% of non-disabled adults. These disparities reflect long-standing patterns of limited access to employment pathways, networks, and professional visibility.</p><p><br/>Research from the <a href=\"https://www.nationaldisabilityinstitute.org/reports/extra-costs-living-with-disability/\"><span style=\"text-decoration:underline\">National Disability Institute</span></a> also shows that adults with a disability require about 28% more income (over $17,000 annually) to maintain a comparable standard of living. When combined with reduced access to employment, the result is restricted economic mobility and long-term financial vulnerability.</p><p><br/>These realities are the result of systems and environments that have historically excluded people with disabilities, including:</p><ul><li>Inaccessible physical or digital spaces</li><li>Limited flexible work structures</li><li>Misconceptions and stigmas about capability and professionalism</li><li>Reduced access to networks that influence hiring and advancement</li></ul><p><br/>These are structural barriers, not individual shortcomings. The result is a missed opportunity for both individuals and employers. People with disabilities lose access to meaningful employment, and workplaces lose access to valuable talent, insight, and creativity.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -266,48 +267,6 @@
         "padding_bottom": 36
       }
     },
-    "section_gallery_Fxjb8z": {
-      "type": "section-gallery",
-      "blocks": {
-        "image_pqd4XE": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_JhcghB": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "image_jMHfHK": {
-          "type": "image",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_pqd4XE",
-        "image_JhcghB",
-        "image_jMHfHK"
-      ],
-      "name": "Gallery",
-      "settings": {
-        "scale_image": false,
-        "wh_ratio": 1,
-        "bg": "palette--light bg--neutral",
-        "add_gutters": true,
-        "progress_bar": "mobile",
-        "grid_large": 2,
-        "grid_medium": 2,
-        "grid_mobile": 1.2,
-        "width": "wrapper--narrow",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_RYYXqK": {
       "type": "section-richtext",
       "blocks": {
@@ -322,14 +281,14 @@
         "heading_Jpd33X": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "How Disability Inclusion Strengthens Business Outcomes",
             "text_size": 8
           }
         },
         "text_PPTNm9": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p>Research shows that disability inclusion is a driver of performance. According to <a href=\"https://www.accenture.com/content/dam/accenture/final/accenture-com/document-2/Disability-Inclusion-Report-Business-Imperative.pdf\"><span style=\"text-decoration:underline\"><em>The Disability Inclusion Imperative</em></span></a>, a national report by Accenture in partnership with <a href=\"https://disabilityin.org/partner?utm_source=Google&utm_medium=Paid&utm_campaign=SD&gad_source=1&gad_campaignid=23327578747&gbraid=0AAAABBhkulfo2RUqQDGTC18J4a1nt7SbU&gclid=Cj0KCQiAi9rJBhCYARIsALyPDtsxtuykF_9zVtqCUAyzeAoDBTte8PHa_MmihwlmufTqMj9zEJ_-FL0aAqGgEALw_wcB\"><span style=\"text-decoration:underline\">Disability:IN</span></a>, companies that prioritize disability inclusion outperform their peers, generating:</p><ul><li>1.6x more revenue</li><li>2.6x more net income</li><li>2x more economic profit</li></ul><p><br/>Inclusive workplaces tend to:</p><ul><li>Attract and retain stronger, more diverse talent</li><li>Foster adaptable, creative, and innovative cultures</li><li>Improve retention through accessible systems</li><li>Reflect the diversity of their customers and communities</li></ul><p><br/>For corporate real estate, HR, and talent professionals, this research confirms the importance of inclusive workplace design. Representation within the built environment invites connection and belonging, supporting organizational well-being.</p><p><br/>Inclusion is a strategic advantage that benefits both people and performance, with measurable business outcomes.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -375,18 +334,6 @@
         "padding_bottom": 36
       }
     },
-    "section_image_TtdgBV": {
-      "type": "section-image",
-      "name": "Image",
-      "settings": {
-        "max_width": 80,
-        "x_align": "center",
-        "color_bg": "palette--light bg--neutral",
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "section_richtext_nxqa6C": {
       "type": "section-richtext",
       "blocks": {
@@ -401,14 +348,14 @@
         "heading_G7VGk7": {
           "type": "heading",
           "settings": {
-            "heading": "Section Title",
+            "heading": "How ArtLifting Expands Opportunity for Artists with Disabilities",
             "text_size": 8
           }
         },
         "text_FdhhiV": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "text": "<p><strong>Creating Financial Resilience Through Art</strong></p><p><br/>Behind every sale is an opportunity for independence.</p><p><br/>ArtLifting has generated tens of millions in art sales, with the majority of profits going to artists, directly supporting professional artists with disabilities across North America. </p><p><br/>Artists earn 55% of profits from every sale, and more than $450,000 has been distributed through the ArtLifting Community Impact Fund to expand access to supplies, resources, professional development, and creative opportunities.</p><p><br/>These earnings are more than income. They contribute to:</p><ul><li>Financial stability</li><li>Greater independence</li><li>The ability to invest in artistic growth</li></ul><p><br/>Each purchase is a tangible investment in human potential.</p>",
             "text_size": 3,
             "text_columns": 1
           }
@@ -449,6 +396,261 @@
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
         "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_LaQn9G": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_zYMKDa": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_LNi6YV": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "How ArtLifting Expands Opportunity for Artists with Disabilities",
+            "text_size": 8
+          }
+        },
+        "text_UpiHnX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Empowering Confidence and Creative Growth</strong></p><p><br/>Recognition fuels creative and personal growth.</p><p><br/>ArtLifting artists consistently report that selling their artwork has a meaningful impact on their lives. Over 95% report increased confidence, and 97% say they feel valued knowing their work is displayed in spaces across the country.</p><p><br/>When artists see their work celebrated, it reinforces what everyone deserves in their professional life: to feel seen, respected, and capable.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_RPAKfH": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_zYMKDa",
+        "heading_LNi6YV",
+        "text_UpiHnX",
+        "button_RPAKfH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_Fxjb8z": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_pqd4XE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/163-artlifting-intuit-monicasemergiu_c17976df-a4e2-4540-8d85-12dfcf853233.jpg",
+            "link": ""
+          }
+        },
+        "image_JhcghB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/222-artlifting-intuit-monicasemergiu_2cb84b9e-7795-40b7-8f9d-971cd556c1ba.jpg",
+            "link": ""
+          }
+        },
+        "image_jMHfHK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3._ArtLifting_Newsletter_Sign_Up-Michaels.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pqd4XE",
+        "image_JhcghB",
+        "image_jMHfHK"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "scale_image": true,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_yHiYMF": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_NgfC8Y": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_Mb6Jja": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Redefining Inclusion in Corporate Spaces",
+            "text_size": 8
+          }
+        },
+        "text_q98BpF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Redefining Inclusion in Corporate Spaces</strong><br/><br/>Workplace art is a design strategy for connection. When companies incorporate artwork from artists with disabilities, they embed inclusion and accessibility directly into the environments where people work, collaborate, and create. This is inclusive design in practice: making representation part of the visual language and culture of the workplace.</p><p><br/>Through <a href=\"https://www.artlifting.com/pages/services\"><span style=\"text-decoration:underline\">art rentals or rotation programs</span></a>, partners integrate social impact into their physical spaces while strengthening organizational culture and keeping spaces fresh and active. Art becomes a bridge between values and experience.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_gfUGC8": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_NgfC8Y",
+        "heading_Mb6Jja",
+        "text_q98BpF",
+        "button_gfUGC8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_rLGDRN": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_CtRJQL": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_k3p6LK": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Bottom Line",
+            "text_size": 8
+          }
+        },
+        "text_a9Y9qc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The disability employment gap is not a reflection of ability. It is the result of systems that have limited access and opportunity. Companies that embrace disability inclusion and accessibility strengthen their culture, performance, and connection to the communities they serve.</p><p><br/>ArtLifting creates direct economic pathways for artists with disabilities to build financial resilience, gain recognition, and participate fully in the professional art market. Through thoughtful procurement and inclusive workplace design, companies can make inclusion visible, actionable, and lasting.</p><p>Closing the disability employment gap requires awareness, intention, and action. Together, we can build workplaces and communities that reflect the full range of creativity and talent in our society.</p><p><br/><a href=\"https://www.artlifting.com/blogs/portfolio\"><span style=\"text-decoration:underline\">Explore our portfolio</span></a> or <a href=\"https://www.artlifting.com/pages/contact-us\"><span style=\"text-decoration:underline\">connect with our team</span></a> to discover how your spaces can uplift professional artists with disabilities and strengthen workplace culture through thoughtful, inclusive artwork.</p>",
+            "text_size": 3,
+            "text_columns": 1
+          }
+        },
+        "button_9B4wXV": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "",
+            "link_1": "shopify://collections/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn-text-thick-line",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_CtRJQL",
+        "heading_k3p6LK",
+        "text_a9Y9qc",
+        "button_9B4wXV"
+      ],
+      "custom_css": [
+        ".heading-size-8 {font-size: 28px;}"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 850,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_image_QqhFc7": {
+      "type": "section-image",
+      "name": "Image",
+      "settings": {
+        "image": "shopify://shop_images/IMG_1807.jpg",
+        "max_width": 70,
+        "x_align": "center",
+        "color_bg": "palette--light bg--neutral",
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -583,10 +785,13 @@
     "section_hero_mYcreP",
     "section_richtext_eQqVdz",
     "section_richtext_YV86cE",
-    "section_gallery_Fxjb8z",
     "section_richtext_RYYXqK",
-    "section_image_TtdgBV",
     "section_richtext_nxqa6C",
+    "section_richtext_LaQn9G",
+    "section_gallery_Fxjb8z",
+    "section_richtext_yHiYMF",
+    "section_richtext_rLGDRN",
+    "section_image_QqhFc7",
     "section_richtext_t3HQCF",
     "section_slideshow_jULmaC"
   ]
